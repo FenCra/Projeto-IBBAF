@@ -1,0 +1,14 @@
+<app-header></app-header>
+
+<div class="main-content">
+
+  <button [routerLink]="['/adicionar-musica']">Adicionar Nova Música</button>
+
+  <ul>
+    <li *ngFor="let musica of musicas">
+      <span>{{ musica.nome }}</span>
+      <button [routerLink]="['/editar-musica', musica.id]">Editar</button>
+      <button (click)="deletarMusica(musica.id)">Deletar</button>
+    </li>
+  </ul>
+</div>

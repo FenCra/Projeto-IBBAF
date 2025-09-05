@@ -1,0 +1,11 @@
+<app-header></app-header>
+
+<div class="main-content">
+  <div *ngIf="musica">
+    <h1>{{ musica.nome }}</h1>
+    <pre>{{ musica.letra }}</pre>
+  </div>
+  <div *ngIf="!musica">
+    <p>Música não encontrada.</p>
+  </div>
+</div>

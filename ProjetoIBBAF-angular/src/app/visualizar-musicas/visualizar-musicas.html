@@ -1,0 +1,21 @@
+<app-header></app-header>
+
+<div class="main-content">
+  <div *ngIf="musicasAgrupadas">
+    <div *ngFor="let letra of letrasDoAlfabeto" class="grupo-letras">
+      <div *ngIf="musicasAgrupadas[letra].length > 0">
+        <h2 class="letra-titulo">{{ letra }}</h2>
+        <ul>
+          <li *ngFor="let musica of musicasAgrupadas[letra]">
+          <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div *ngIf="musicasAgrupadas && !temMusicas(musicasAgrupadas)">
+    <p>Nenhuma música encontrada.</p>
+  </div>
+</div>

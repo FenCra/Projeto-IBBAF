@@ -1,0 +1,22 @@
+<app-header></app-header>
+
+<div class="main-content">
+  <div class="busca-container">
+    <input type="text" placeholder="Buscar música ou letra..." [(ngModel)]="termoBusca" (ngModelChange)="filtrarMusicas()">
+  </div>
+
+  <div class="resultados">
+    <ul *ngIf="musicasQueComecam.length > 0">
+      <li *ngFor="let musica of musicasQueComecam">
+        <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+      </li>
+    </ul>
+
+
+    <ul *ngIf="musicasQueContem.length > 0">
+      <li *ngFor="let musica of musicasQueContem">
+        <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+      </li>
+    </ul>
+  </div>
+</div>

@@ -1,0 +1,19 @@
+<app-header></app-header>
+
+<div class="main-content">
+  <h2>{{ isEditMode ? 'Editar Música' : 'Adicionar Nova Música' }}</h2>
+  <form (ngSubmit)="salvarMusica()">
+    <div>
+      <label for="nome">Nome:</label>
+      <input id="nome" [(ngModel)]="musica.nome" name="nome" required>
+    </div>
+
+    <div>
+      <label for="letra">Lírica:</label>
+      <textarea id="letra" [(ngModel)]="musica.letra" name="letra" required></textarea>
+    </div>
+
+    <button type="submit">Salvar</button>
+    <button type="button" (click)="cancelar()">Cancelar</button>
+  </form>
+</div>
