@@ -8,7 +8,7 @@ import { VisualizacaoUnica } from './visualizacao-unica/visualizacao-unica';
 
 
 export const routes: Routes = [
-  { path: '', component: Home },
+  { path: '', component: Home},
   { path: 'visualizar', component: VisualizarMusicas },
   { path: 'crud', component: CrudMusicas },
   { path: 'adicionar-musica', component: FormularioMusicas },

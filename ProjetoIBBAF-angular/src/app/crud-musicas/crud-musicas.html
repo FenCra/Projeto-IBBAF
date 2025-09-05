@@ -1,11 +1,18 @@
 <app-header></app-header>
 
 <div class="main-content">
-
-  <button [routerLink]="['/adicionar-musica']">Adicionar Nova Música</button>
+  <div class="search-add-section">
+    <input
+      type="text"
+      placeholder="Pesquisar músicas por título ou autor..."
+      [(ngModel)]="searchTerm"
+      (input)="filtrarMusicas()"
+    />
+    <button [routerLink]="['/adicionar-musica']">Adicionar Nova Música</button>
+  </div>
 
   <ul>
-    <li *ngFor="let musica of musicas">
+    <li *ngFor="let musica of musicasFiltradas">
       <span>{{ musica.nome }}</span>
       <button [routerLink]="['/editar-musica', musica.id]">Editar</button>
       <button (click)="deletarMusica(musica.id)">Deletar</button>

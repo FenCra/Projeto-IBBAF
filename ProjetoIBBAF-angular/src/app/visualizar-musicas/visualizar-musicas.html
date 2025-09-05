@@ -2,15 +2,15 @@
 
 <div class="main-content">
   <div *ngIf="musicasAgrupadas">
-    <div *ngFor="let letra of letrasDoAlfabeto" class="grupo-letras">
-      <div *ngIf="musicasAgrupadas[letra].length > 0">
+    <div *ngFor="let letra of letrasDoAlfabeto">
+      <div *ngIf="musicasAgrupadas[letra].length > 0" class="grupo-letras">
         <h2 class="letra-titulo">{{ letra }}</h2>
         <ul>
           <li *ngFor="let musica of musicasAgrupadas[letra]">
-          <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+            <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
           </li>
-
         </ul>
+        <hr class="separator-linha">
       </div>
     </div>
   </div>

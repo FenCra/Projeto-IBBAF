@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Em Espírito, em Verdade",
-    "letra": "Em espírito, em verdade\nTe adoramos, te adoramos\nRei dos reis e Senhor\nTe entregamos nosso viver\nPra te adorar oh, Rei dos reis..."
+    "letra": "Em espírito, em verdade\nTe adoramos, te adoramos\nRei dos reis e Senhor\nTe entregamos nosso viver\nPra te adorar oh, Rei dos reis\nFoi que eu nasci ó Rei Jesus"
   },
   {
     "id": 2,
@@ -12,6 +12,11 @@
   {
     "id": 4,
     "nome": "Além do Véu",
-    "letra": "Além do véu, quero adorar, porstar-me junto a ti"
+    "letra": "Além do véu, quero adorar, prostar-me junto a ti\nno mais santo lugar"
+  },
+  {
+    "id": 5,
+    "nome": "Mais de Ti",
+    "letra": "Mais de Ti, mais de Ti\nMais de Ti, mais de Ti\nE menos de mim\nE menos demim"
   }
 ]

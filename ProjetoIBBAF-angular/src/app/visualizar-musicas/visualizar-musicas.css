@@ -1,9 +1,6 @@
-ul {
-  list-style-type: none;
-  padding: 5;
-  margin: 0;
-}
-
-a {
-  color: white;
+.separator-linha {
+  border: 0;
+  height: 1px;
+  background-color: white;
+  margin: 20px 0;
 }

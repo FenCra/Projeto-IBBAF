@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #0E00AA;
+   background: linear-gradient(90deg,rgb(14, 0, 170), rgb(13, 5, 97));
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    color: #ffffff;
+}
+
+a {
+    color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
