@@ -1,0 +1,31 @@
+.main-content {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;    
+    font-style: italic;
+
+    display: flex;               /* ativa Flexbox */
+    justify-content: center;     /* centraliza todos os ícones juntos */
+    align-items: center;         /* centraliza verticalmente */
+    gap: 10vw;                    /* controla a distância entre os ícones */
+    height: 70vh;                /* altura da área onde os ícones vão ficar */
+}
+
+
+.icon-view, .icon-edit, .icon-show {
+    display: flex;
+    flex-direction: column;      /* ícone em cima, texto abaixo */
+    align-items: center;
+}
+
+.icon-view span, .icon-edit span, .icon-show span {
+    margin-top: 5px;
+    text-align: center;
+    line-height: 1;
+    font-size: 1vw;
+}
+
+.icon-view img, .icon-edit img, .icon-show img {
+    height: 20vh;
+    width: auto;
+    display: block;
+}

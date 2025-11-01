@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@700&display=swap');
+
+
 /* header*/
 .cabeçalho {
     display: flex;
@@ -5,25 +8,76 @@
     justify-content: space-between;
     align-items: center;
     box-shadow: 0px 0px 15px #00000059;
+    height: 23.17vh;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.cabeçalho-menor {
+    left: 15%;
+    display: flex;
+    justify-content: center; 
+    flex-direction: column;
+    align-items: center;     
+    position: absolute;
+    top: 1%;
+    background-color: rgb(12, 3, 104);
+    height: 15.04vh;
+    width: 70.38vw;
+    z-index: 10;
+    margin: 0 auto;
+    box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.4);
+    border-radius: 4px;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 1); /* sombra mais forte */
 }
 
 h1 {
-    padding-top: 30px;
+    padding-top: 2vh;
+    padding-bottom: 1vh;
     color: #ffffff;
-    text-shadow: -10px 3px 15px #00000030;
+    font-size: 3.5vw;
+    margin: 0;
+    /* a partir daqui é só o gradiente */
+    background: linear-gradient(to bottom, #000000ca 0%, #ffffff 70%); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+
+    
 }
 
 h4 {
     padding-bottom: 30px;
     color: #ffffff;  
     text-align: center; 
+    font-size: 2vw;
 }
 
-.imagem-ibb {
+.foto-ibb {
     display: grid;
-    width: 120px;
+    width: 12.5vh;
+    height: 8.5vw;
+    margin: 0;
+    position:absolute;
+    left: 10%;
+    z-index: 11;
+     box-shadow: 0px 15px 20px rgba(0, 0, 0, 1);
+     border-radius: 120px;
+    
     
 }
+
+.arte-ibb {
+    display: grid;
+    width: 15vh;
+    margin: 0;
+    right: 10%;
+    position: absolute;
+    z-index: 11;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 1);
+    border-radius: 120px;
+    
+    
+}
+
 
 .texto-main {
     display: grid;
