@@ -1,3 +1,10 @@
 .main-content {
   margin: 20px;
 }
+
+pre {
+  white-space: pre-wrap;
+  font-family: 'Segoe UI', sans-serif;
+  font-size: x-large;
+  font-weight: bold;
+}
