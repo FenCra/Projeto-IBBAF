@@ -54,6 +54,7 @@ export class FormularioMusicas implements OnInit {
         error: (err: any) => console.error('Erro ao adicionar a música', err)
       });
     }
+    this.router.navigate(['/crud']);
   }
   cancelar() {
     this.router.navigate(['/crud']);

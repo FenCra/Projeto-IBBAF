@@ -1,0 +1,75 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.main-content {
+    text-align: center;
+    position: relative;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.versiculo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+    color: white;
+    font-size: 1.4rem;
+    width: 90%;
+    max-width: 800px;
+}
+
+.resultados {
+    margin-top: 15px;
+    position: absolute;
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+
+}
+
+.lista-musicas {
+    width: 100%;
+    height: 100%;
+    /* ocupa toda a área disponível da div resultados */
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+.busca-container {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 300px;
+    z-index: 10;
+}
+
+.busca-container input[type=text] {
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid white;
+    color: white;
+    text-align: center;
+    width: 100%;
+    padding: 10px 40px 10px 10px;
+    box-sizing: border-box;
+    outline: none;
+    box-shadow: none;
+    background-image: url(../../assets/lupa-icone.png);
+    background-repeat: no-repeat;
+    background-position: right 5px center;
+    background-size: 20px 20px;
+}
+
+.busca-container input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+}

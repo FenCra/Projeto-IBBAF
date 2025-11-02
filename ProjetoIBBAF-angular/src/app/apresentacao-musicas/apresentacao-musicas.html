@@ -1,22 +1,27 @@
 <app-header></app-header>
 
 <div class="main-content">
-  <div class="busca-container">
-    <input type="text" placeholder="Buscar letra..." [(ngModel)]="termoBusca" (ngModelChange)="filtrarMusicas()">
+  <div class="resultados">
+    <div class="lista-musicas" *ngIf="musicasQueComecam.length > 0 || musicasQueContem.length > 0">
+      <ul *ngIf="musicasQueComecam.length > 0">
+        <li *ngFor="let musica of musicasQueComecam">
+          <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+        </li>
+      </ul>
+
+      <ul *ngIf="musicasQueContem.length > 0">
+        <li *ngFor="let musica of musicasQueContem">
+          <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
+        </li>
+      </ul>
+    </div>
   </div>
 
-  <div class="resultados">
-    <ul *ngIf="musicasQueComecam.length > 0">
-      <li *ngFor="let musica of musicasQueComecam">
-        <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
-      </li>
-    </ul>
+  <h2 class="versiculo" *ngIf="!termoBusca">
+    Celebrai com júbilo ao SENHOR, todas as terras.
+  </h2>
 
-
-    <ul *ngIf="musicasQueContem.length > 0">
-      <li *ngFor="let musica of musicasQueContem">
-        <a [routerLink]="['/musica', musica.id]">{{ musica.nome }}</a>
-      </li>
-    </ul>
+  <div class="busca-container">
+    <input type="text" [(ngModel)]="termoBusca" (ngModelChange)="filtrarMusicas()">
   </div>
 </div>
