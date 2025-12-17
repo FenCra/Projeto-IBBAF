@@ -14,6 +14,11 @@ export class MusicasService {
     return this.http.get(this.apiUrl);
   }
 
+  // READ: Busca músicas por letra
+  getMusicasPorLetra(letra: string) {
+    return this.http.get(`${this.apiUrl}/letra/${letra}`);
+  }
+
   // CREATE: Adiciona uma nova música
   addMusica(musica: any) {
     return this.http.post(this.apiUrl, musica);

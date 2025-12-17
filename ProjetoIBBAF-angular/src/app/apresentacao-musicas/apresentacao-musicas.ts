@@ -26,8 +26,14 @@ export class Apresentacao implements OnInit {
     });
   }
 
+  // Função para normalizar string removendo acentos
+  normalizarTexto(texto: string): string {
+    return texto.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  }
+
   filtrarMusicas() {
     const termo = this.termoBusca.toLowerCase().trim();
+    const termoNormalizado = this.normalizarTexto(termo);
     this.musicasQueComecam = [];
     this.musicasQueContem = [];
 
@@ -35,16 +41,16 @@ export class Apresentacao implements OnInit {
       return;
     }
 
-    // Primeiro, filtra as músicas que COMECAM com o termo de busca
+    // Primeiro, filtra as músicas que COMECAM com o termo de busca (considerando acentos)
     this.musicasQueComecam = this.todasMusicas.filter(musica =>
-      musica.nome.toLowerCase().startsWith(termo)
+      this.normalizarTexto(musica.nome).startsWith(termoNormalizado)
     );
 
     // Segundo, filtra as músicas que CONTÊM o termo de busca
     // (e que não estão na primeira lista)
     this.musicasQueContem = this.todasMusicas.filter(musica =>
-      !musica.nome.toLowerCase().startsWith(termo) &&
-      (musica.nome.toLowerCase().includes(termo) || musica.letra.toLowerCase().includes(termo))
+      !this.normalizarTexto(musica.nome).startsWith(termoNormalizado) &&
+      (this.normalizarTexto(musica.nome).includes(termoNormalizado) || this.normalizarTexto(musica.letra).includes(termoNormalizado))
     );
   }
 }

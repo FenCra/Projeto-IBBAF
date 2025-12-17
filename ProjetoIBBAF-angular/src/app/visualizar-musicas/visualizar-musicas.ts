@@ -22,30 +22,16 @@ export class VisualizarMusicas implements OnInit {
   }
 
   carregarMusicas() {
-    this.musicasService.getMusicas().subscribe({
-      next: (data: any) => {
-        const musicas = data as any[];
-        this.agruparMusicasPorLetra(musicas);
-      },
-      error: (err: any) => {
-        console.error('Erro ao carregar as músicas', err);
-      }
-    });
-  }
-
-  agruparMusicasPorLetra(musicas: any[]) {
-    this.musicasAgrupadas = {};
     this.letrasDoAlfabeto.forEach(letra => {
-      this.musicasAgrupadas[letra] = [];
-    });
-
-    musicas.sort((a, b) => a.nome.localeCompare(b.nome));
-
-    musicas.forEach(musica => {
-      const primeiraLetra = musica.nome.charAt(0).toUpperCase();
-      if (this.musicasAgrupadas[primeiraLetra]) {
-        this.musicasAgrupadas[primeiraLetra].push(musica);
-      }
+      this.musicasService.getMusicasPorLetra(letra).subscribe({
+        next: (data: any) => {
+          this.musicasAgrupadas[letra] = data as any[];
+        },
+        error: (err: any) => {
+          console.error(`Erro ao carregar músicas para a letra ${letra}`, err);
+          this.musicasAgrupadas[letra] = [];
+        }
+      });
     });
   }
 
