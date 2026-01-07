@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { CommonModule } from '@angular/common';
+import { RouterLink } from '@angular/router';
 import { ActivatedRoute } from '@angular/router';
 import { MusicasService } from '../musicas';
 import { Header } from '../header/header';
@@ -7,7 +8,7 @@ import { Header } from '../header/header';
 @Component({
   selector: 'app-visualizacao-unica',
   standalone: true,
-  imports: [CommonModule, Header],
+  imports: [CommonModule, Header, RouterLink],
   templateUrl: './visualizacao-unica.html',
   styleUrls: ['./visualizacao-unica.css']
 })

@@ -8,3 +8,19 @@ pre {
   font-size: x-large;
   font-weight: bold;
 }
+
+.buttons {
+  display: flex;
+  height: 40px;
+  margin-top: 100px;
+  gap: 15px;
+  justify-content: end;
+}
+
+.buttons button {
+  width: 60px;
+  font-size: 24px;
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+}

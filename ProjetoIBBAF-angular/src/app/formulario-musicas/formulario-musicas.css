@@ -1,0 +1,63 @@
+.typeForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin: 10px 8px 8px 10px;
+}
+
+.form label {
+    font-size: 25px;
+    margin: 5px;
+}
+
+.inputName {
+    width: 80%;
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 20px;
+    border: none;
+    background-color: #685DDF;
+    border-radius: 4px;
+}
+
+.inputLyric {
+    width: 80%;
+    min-height: 180px;
+    height: 400px;
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding: 5px;
+    border: none;
+    background-color: #685DDF;
+    border-radius: 4px;
+    resize: vertical;
+}
+
+.button-group {
+    display: flex;
+    justify-content: end;
+    gap: 15px;
+    margin-right: 5px;
+}
+
+.button-group button {
+    width: 120px;
+    height: 40px;
+    font-size: 18px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.button-group .cancel {
+    background-color: #AEA9E0;
+}
