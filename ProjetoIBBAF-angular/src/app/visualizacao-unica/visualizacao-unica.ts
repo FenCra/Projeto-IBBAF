@@ -14,6 +14,7 @@ import { Header } from '../header/header';
 })
 export class VisualizacaoUnica implements OnInit {
   musica: any;
+  favorite: boolean = false;
 
   constructor(
     private route: ActivatedRoute,

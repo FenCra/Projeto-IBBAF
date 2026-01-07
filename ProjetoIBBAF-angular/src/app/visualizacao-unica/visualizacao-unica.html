@@ -7,8 +7,8 @@
     <pre>{{ musica.letra }}</pre>
     <br>
     <div class="buttons">
-      <button class="favorite">⭐</button>
-      <button class="back" [routerLink]="['/apresentacao']">↩</button>
+      <button *ngIf="!favorite" class="favorite"></button>
+      <button class="back" [routerLink]="['/apresentacao']"></button>
     </div>
   </div>
   <div *ngIf="!musica">

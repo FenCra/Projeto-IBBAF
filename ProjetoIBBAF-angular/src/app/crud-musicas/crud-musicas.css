@@ -1,0 +1,72 @@
+.search-add-section {
+    display: flex;
+    align-items: center;
+    margin: 20px 0 30px 20px;
+    padding: 15px;
+    gap: 15px;
+}
+
+.search-container input {
+    padding: 8px 8px 8px 32px;
+    border: none;
+    color: white;
+    background-color: #685DDF;
+    border-radius: 50px;
+    height: 40px;
+    width: 90ch;
+    font-size: 14px;
+}
+
+.search-container input::placeholder {
+    color: rgb(0, 0, 0);
+    opacity: 0.5;
+}
+
+.addSongIcon {
+    width: 28px;
+    height: 28px;
+    background-image: url('../../assets/Adicionar.png');
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+}
+
+.editIcon {
+    width: 24px;
+    height: 24px;
+    background-image: url('../../assets/editar-musicas.png');
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.trashIcon {
+    width: 24px;
+    height: 24px;
+    background-image: url('../../assets/lixeira.png');
+    background-color: transparent;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.line-list {
+    display: flex;
+    align-items: center;
+    margin: 5px 30px;
+    padding: 10px;
+}
+
+.line-list span {
+    font-size: 18px;
+    font-weight: 500;
+    border-bottom: 1px solid #ccc;
+    flex-grow: 1;
+}

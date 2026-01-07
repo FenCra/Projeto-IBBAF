@@ -13,14 +13,36 @@ pre {
   display: flex;
   height: 40px;
   margin-top: 100px;
-  gap: 15px;
+  gap: 25px;
   justify-content: end;
 }
-
+/*
 .buttons button {
   width: 60px;
   font-size: 24px;
   border: none;
   cursor: pointer;
   background-color: transparent;
+} */
+
+.favorite {
+  width: 39px;
+  height: 37px;
+  background-image: url('../../assets/nao-fav.png');
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+}
+
+.back {
+  width: 54px;
+  height: 35px; 
+  background-image: url('../../assets/voltar.png');
+  background-color: transparent;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
 }
