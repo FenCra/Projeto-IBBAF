@@ -1,22 +1,52 @@
 [
   {
-    "id": "223",
-    "nome": "Lá está o meu tesouro",
-    "letra": "Lá está o meu tesouro\nLá onde não há choro\nOnde todos cantaremos juntos\nHinos de louvor\nAo Senhor\n\nAleluia! (4x)\nHinos de louvor\nAo Senhor"
-  },
-  {
-    "id": "224",
     "nome": "Lavaste o Meu Coração (Sangue Precioso)",
-    "letra": "Lavaste o meu coração\nCom Teu Sangue precioso\nAtraíste a minha alma\nCom Teus laços de amor\n\nPerdoaste os meus pecados\nSaraste os meus sentimentos\nE por Tua bondade\nConduz-me ao arrependimento\n\nMudaste a minha vida\nCom amor e Tua graça\nMe geraste pelo Espírito\nNo poder da ressurreição\nTu quebraste minhas cadeias\nCuraste o meu coração\nDeste-me liberdade para Te adorar\n\nE eu Te adoro Senhor Jesus"
+    "letra": "Lavaste o meu coração\nCom Teu Sangue precioso\nAtraíste a minha alma\nCom Teus laços de amor\n\nPerdoaste os meus pecados\nSaraste os meus sentimentos\nE por Tua bondade\nConduz-me ao arrependimento\n\nMudaste a minha vida\nCom amor e Tua graça\nMe geraste pelo Espírito\nNo poder da ressurreição\nTu quebraste minhas cadeias\nCuraste o meu coração\nDeste-me liberdade para Te adorar\n\nE eu Te adoro Senhor Jesus",
+    "id": 291
   },
   {
-    "id": "225",
     "nome": "Lembra que o Senhor (Cântico da Colheita)",
-    "letra": "Lembra que o Senhor uma vez nos falou\nSobre a promessa de um dia colher\nO fruto que hoje temos nas mãos\nÉ o que nos fazia sonhar\n\nCom muito trabalho e guardando a visão\nÀs vezes chorando, mas sempre com fé\nValeu à pena esperar no Senhor\nQue mais uma vez foi fiel\n\nA nossa boca se encheu de alegria\nE a nossa língua de júbilo\nEm toda a Terra um canto se ouvia\nGrandes coisas fez o Senhor\n\nA nossa boca se encheu de alegria\nE a nossa língua de júbilo\nNossa colheita tem sido abundante\nCumpriu-se a Palavra de Deus"
+    "letra": "Lembra que o Senhor uma vez nos falou\nSobre a promessa de um dia colher\nO fruto que hoje temos nas mãos\nÉ o que nos fazia sonhar\n\nCom muito trabalho e guardando a visão\nÀs vezes chorando, mas sempre com fé\nValeu à pena esperar no Senhor\nQue mais uma vez foi fiel\n\nA nossa boca se encheu de alegria\nE a nossa língua de júbilo\nEm toda a Terra um canto se ouvia\nGrandes coisas fez o Senhor\n\nA nossa boca se encheu de alegria\nE a nossa língua de júbilo\nNossa colheita tem sido abundante\nCumpriu-se a Palavra de Deus",
+    "id": 292
   },
   {
-    "id": "226",
+    "nome": "Leva Tu Contigo o Nome (Nome Precioso)",
+    "letra": "Leva tu contigo o nome\nDe Jesus, o Salvador\nEste nome dá consolo\nSeja no lugar que for\n\nNome bom, doce à fé\nA esperança do porvir\n\nOh, que nome precioso\nGozo traz ao coração\nSendo por Jesus aceito\nTu terás o seu perdão\n\nNome bom, doce à fé\nA esperança do porvir\n\nEste nome leva sempre\nPara bem te defender\nEle é arma ao teu alcance\nQuando o mal te aparecer\n\nNome bom, doce à fé\nA esperança do porvir\n\nNome Santo e venerável\nÉ Jesus, o amado teu\nRei dos reis, Senhor eterno\nTu O aclamarás no céu",
+    "id": 293
+  },
+  {
     "nome": "Levanta-te, oh Deus!",
-    "letra": "Levanta-te, oh Deus!\nLevanta-te, oh Deus!\n\nQue seus inimigos fujam\nEnquanto os justos se alegram\nSim, celebrem com alegria\nA vitória do Senhor\n\nÉ tão bom ao Senhor louvar\nE ao Teu nome, oh Altíssimo cantar\nTeu amor e Tua fidelidade\nNoite e dia proclamar\n\nLai, lai, lai...\n\nOh, Senhor\nQue eu possa habitar em teus átrios\nE ali florescer\nEm Tua casa, oh Adonai\nPara sempre vou viver"
+    "letra": "Levanta-te, oh Deus!\nLevanta-te, oh Deus!\n\nQue seus inimigos fujam\nEnquanto os justos se alegram\nSim, celebrem com alegria\nA vitória do Senhor\n\nÉ tão bom ao Senhor louvar\nE ao Teu nome, oh Altíssimo cantar\nTeu amor e Tua fidelidade\nNoite e dia proclamar\n\nLai, lai, lai...\n\nOh, Senhor\nQue eu possa habitar em teus átrios\nE ali florescer\nEm Tua casa, oh Adonai\nPara sempre vou viver",
+    "id": 294
+  },
+  {
+    "nome": "Logo de manhã",
+    "letra": "Logo de manhã\nQuero Te buscar\nTua voz ouvir\nTeu amor sentir\n\nEstender as mãos\nPara Te louvar\nDerramar meu coração\nSobre o Teu altar\n\nPois Tu sabes bem\nTudo quanto há em mim\nVou te seguir\nE te amar até o fim\n\nE no fim do dia\nQuando o sol se for\nTe adorarei\nTe darei louvor\n\nMesmo escura a noite\nBrilha a Tua luz\nEm Teus braços eu descanso\nMeu Senhor Jesus",
+    "id": 295
+  },
+  {
+    "nome": "Longe de Deus Andavamos Cegos (Somente Cristo)",
+    "letra": "Longe de Deus, andávamos cegos\nOvelhas que não tem Pastor\nEstávamos mortos em nossos pecados\nDistantes da glória de Deus\n\nMas Deus provou seu grande amor\nSeu próprio Filho entregou\nSeu sangue trouxe a redenção\nJá não há mais condenação\n\nA nossa glória é Cristo\nNossa esperança é Cristo\nNossa coroa é Cristo\nSomente Cristo Jesus\n\nSim, Deus provou Seu grande amor\nSeu próprio Filho entregou\nE em glória O ressuscitou\nPra ser Messias, Rei, Senhor",
+    "id": 296
+  },
+  {
+    "nome": "Louvado Seja",
+    "letra": "Louvado seja, Senhor Teu nome\nEntronizado entre as nações\nExaltarei a Ti, Senhor\nPelo que Tu És, eu Te adorarei\n\nRecebe a minha adoração\nQue é fruto de Tua graça em mim\nE do Teu amor que restaura em mim\nO meu amor por Ti, Jesus\n\nEngrandecerei, exaltarei o Teu nome\nDiante dos reis e dos poderosos\nEu louvarei a Ti, Senhor",
+    "id": 297
+  },
+  {
+    "nome": "Louvemos ao Senhor",
+    "letra": "Louvemos ao Senhor (2x)\nLouvemos ao Senhor (2x)\nAdoremos no Seu santo monte\nNosso Amado Pai\nSeu Nome é Santo\n\nLouvamos ao Senhor\nPois Seu Nome é Santo\nLouvamos ao Senhor\nPois Seu Nome é Santo\n\nMagnifiquemos ao Senhor\nAo Rei que é digno de louvor\nExcelso, Supremo\nMui Digno de louvor\n\nHosana (Hosana)\nHosana (Hosana)\nHosana ao nosso Rei\n\nCristo é a nossa vida\nO motivo do louvor\nEm nosso novo coração\nPois morreu a nossa morte\nPra vivermos Sua vida\nNos trouxe grande salvação",
+    "id": 298
+  },
+  {
+    "nome": "Luz das Nações (Vim para adorar-Te)",
+    "letra": "Luz das nações, que dissipa as trevas\nAbre os meus olhos pra ver\nLindo Tu és, eu só quero adorar-Te\nDar os meus dias pra Ti\n\nVim para adorar-Te, vim para prostrar-me\nVim para dizer que és meu Deus\nÉs totalmente Amável, totalmente Digno\nÉs Maravilhoso para mim\n\nRei sobre todos, Tu és Exaltado\nEntronizado nos céus\nHumildemente, vieste a Terra\nTe entregaste em amor\n\nEu nunca saberei o preço\nDos meus pecados lá na cruz",
+    "id": 299
+  },
+  {
+    "nome": "Lá está o meu tesouro",
+    "letra": "Lá está o meu tesouro\nLá onde não há choro\nOnde todos cantaremos juntos\nHinos de louvor\nAo Senhor\n\nAleluia! (4x)\nHinos de louvor\nAo Senhor",
+    "id": 300
   }
 ]

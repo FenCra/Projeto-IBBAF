@@ -1,42 +1,52 @@
 [
   {
-    "id": "102",
     "nome": "Baruch Haba",
-    "letra": "Baruch haba, be shem Adonai\nBendito é o que vem\nBaruch haba, be shem Adonai\nVem em nome do Senhor\n\nLevanta-te, oh Senhor,\nE vem com Tua Arca de poder!\nNos alegraremos\nVestidos da Tua justiça\nE celebraremos Teu amor"
+    "letra": "Baruch haba, be shem Adonai\nBendito é o que vem\nBaruch haba, be shem Adonai\nVem em nome do Senhor\n\nLevanta-te, oh Senhor,\nE vem com Tua Arca de poder!\nNos alegraremos\nVestidos da Tua justiça\nE celebraremos Teu amor",
+    "id": 67
   },
   {
-    "id": "103",
     "nome": "Batei Palmas",
-    "letra": "Batei palmas, todos os povos\nCelebrai a Deus com vozes de júbilo\n\nPois o Senhor Altíssimo é tremendo\nÉ o grande Rei de toda a Terra\n\nDeus é o Rei de toda a Terra\nSalmodiai com harmonioso cântico"
+    "letra": "Batei palmas, todos os povos\nCelebrai a Deus com vozes de júbilo\n\nPois o Senhor Altíssimo é tremendo\nÉ o grande Rei de toda a Terra\n\nDeus é o Rei de toda a Terra\nSalmodiai com harmonioso cântico",
+    "id": 68
   },
   {
-    "id": "104",
     "nome": "Bem sei que tudo podes (Continuar)",
-    "letra": "Bem sei que tudo podes, meu Amado\nNenhum dos Teus planos é frustrado\nAinda que com perdas e com dor\nEu sempre seguirei a Ti, Senhor\n\nOs Teus caminhos posso\nNão entender, Senhor\nMas sei que tudo é visando o meu crescer\nSe lutas e tribulações eu tenho que passar\nTe peço forças pra continuar\n\nContinuar a crer e a confiar\nNo grande amor que tens, meu Pai, por mim\nO meu desejo eterno é Te adorar\nE aos Teus pés me derramar, sem fim"
+    "letra": "Bem sei que tudo podes, meu Amado\nNenhum dos Teus planos é frustrado\nAinda que com perdas e com dor\nEu sempre seguirei a Ti, Senhor\n\nOs Teus caminhos posso\nNão entender, Senhor\nMas sei que tudo é visando o meu crescer\nSe lutas e tribulações eu tenho que passar\nTe peço forças pra continuar\n\nContinuar a crer e a confiar\nNo grande amor que tens, meu Pai, por mim\nO meu desejo eterno é Te adorar\nE aos Teus pés me derramar, sem fim",
+    "id": 69
   },
   {
-    "id": "105",
+    "nome": "Bem-aventurado",
+    "letra": "Bem-aventurado é o que está\nFirmado em Tua casa\nAqueles que Te louvam\nCujo coração está no nosso Deus\n\nBem-aventurado é quem tem\nSede da justiça de Deus\nAqueles que são filhos da luz\nCujo a força vem do nosso Deus\n\nQue o Teu reino venha sobre nós\nQueremos Tua glória sobre nós\n\nOuve, oh Deus!\nNossa oração, Altíssimo\nSara os corações\nE restaura a igreja que Te adora\n\nSó Tu és Santo\nSó Tu és Santo\nSó Tu és Santo, Senhor!",
+    "id": 70
+  },
+  {
     "nome": "Bendito seja Deus",
-    "letra": "Bendito seja Deus, nossa fortaleza!\nBendito seja Deus, nosso escudo!\nEle reina vitoriosamente\nBendito seja o nome do Senhor!\nBendito seja o nome do Senhor!\n\nSeu poder\nÉ semelhante ao grande mar\nSua graça\nTrouxe vida para mim\nE agora\nSou vitorioso\nBendito o nome do Senhor!\n\nSeu sangue\nLivrou-me da escravidão\nSeu amor\nOpera Sua vida em mim\nE agora\nSou dele eternamente\nBendito o nome do Senhor!"
+    "letra": "Bendito seja Deus, nossa fortaleza!\nBendito seja Deus, nosso escudo!\nEle reina vitoriosamente\nBendito seja o nome do Senhor!\nBendito seja o nome do Senhor!\n\nSeu poder\nÉ semelhante ao grande mar\nSua graça\nTrouxe vida para mim\nE agora\nSou vitorioso\nBendito o nome do Senhor!\n\nSeu sangue\nLivrou-me da escravidão\nSeu amor\nOpera Sua vida em mim\nE agora\nSou dele eternamente\nBendito o nome do Senhor!",
+    "id": 71
   },
   {
-    "id": "106",
     "nome": "Bendito seja o Cordeiro",
-    "letra": "Bendito seja o Cordeiro\nQue na cruz por nós padeceu\nBendito seja o Seu sangue\nQue por nós, ali, Ele verteu\nEis nesse Sangue lavados\nCom roupas que tão alvas são\nOs pecadores remidos\nQue perante seu Deus já estão\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei\n\nQuão espinhosa coroa\nQue Jesus por nós suportou!\nOh, quão profundas as chagas\nQue nos provam quanto Ele amou!\nEis nessas Chagas pureza\nPara o maior pecador!\nPois que mais alvo que a neve\nO Teu sangue nos torna Senhor!\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei\n\nSe nós a Ti confessarmos\nE seguirmos na Tua luz\nTu não somente perdoas\nPurificas, também, Oh Jesus\nSim, e de todo o pecado\nQue maravilha de amor!\nPois que mais alvo que a neve\nO Teu sangue nos torna Senhor!\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei"
+    "letra": "Bendito seja o Cordeiro\nQue na cruz por nós padeceu\nBendito seja o Seu sangue\nQue por nós, ali, Ele verteu\nEis nesse Sangue lavados\nCom roupas que tão alvas são\nOs pecadores remidos\nQue perante seu Deus já estão\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei\n\nQuão espinhosa coroa\nQue Jesus por nós suportou!\nOh, quão profundas as chagas\nQue nos provam quanto Ele amou!\nEis nessas Chagas pureza\nPara o maior pecador!\nPois que mais alvo que a neve\nO Teu sangue nos torna Senhor!\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei\n\nSe nós a Ti confessarmos\nE seguirmos na Tua luz\nTu não somente perdoas\nPurificas, também, Oh Jesus\nSim, e de todo o pecado\nQue maravilha de amor!\nPois que mais alvo que a neve\nO Teu sangue nos torna Senhor!\n\nAlvo mais que a neve!\nAlvo mais que a neve!\nSim, nesse Sangue lavado\nMais alvo que a neve serei",
+    "id": 72
   },
   {
-    "id": "107",
-    "nome": "Buscamos Tua promessa",
-    "letra": "Buscamos Tua promessa, Oh Deus\nQue se Teu povo se humilhar e orar\nTu virás sarar nossos corações\nOh, sim, vem!\n\nConfiamos na promessa, Oh Deus\nQue se buscar a Tua face\nTu virás avivar meu coração\nOh, sim, vem!\n\nOh, Senhor, aviva primeiro a mim!\nPurifica os meus lábios\nPois Santo Tu és\nMeus olhos querem Te ver\nEm glória, Te conhecer\nSenhor aviva primeiro a mim!\n\nBuscamos Tua promessa, Oh Deus\nDe por Teu Reino em primeiro lugar\nE Tu virás suprir nossos corações\nOh, sim, vem!\n\nConfiamos na promessa, Oh Deus\nQue se permanecermos na Tua Palavra\nTu derramarás o Espírito em nós\nOh, sim, vem!\n\nOh, Senhor, vem santifica primeiro a mim!\nPurifica os meus lábios\nPois Santo Tu És\nMeus olhos verão o Rei\nTua glória contemplarei\nVem, santifica primeiro a mim!"
-  },
-  {
-    "id": "475",
     "nome": "Bendize, Oh Minh’alma",
-    "letra": "Bendize, oh minh’alma, ao Senhor\nSenhor, Tu és maravilhoso,\nVestido de Glória e Majestade,\nCoberto de luz como de um manto,\nE são as cortinas da Tua morada,\nOs céus numa noite estrelada.\n\nA Tua casa se ergue sobre as nuvens\nDeus vai ligeiro nas asas do vento\nE fica muito claro este momento:\nCom jeito, tempo, intento de adorar\n\nBendize, oh minh’alma, bendize ao Senhor,\nE toda minha vida proclame Seu louvor\nBendize oh minh’alma, bendize ao Senhor\nPra sempre penhorada ao Seu imenso amor"
+    "letra": "Bendize, oh minh’alma, ao Senhor\nSenhor, Tu és maravilhoso,\nVestido de Glória e Majestade,\nCoberto de luz como de um manto,\nE são as cortinas da Tua morada,\nOs céus numa noite estrelada.\n\nA Tua casa se ergue sobre as nuvens\nDeus vai ligeiro nas asas do vento\nE fica muito claro este momento:\nCom jeito, tempo, intento de adorar\n\nBendize, oh minh’alma, bendize ao Senhor,\nE toda minha vida proclame Seu louvor\nBendize oh minh’alma, bendize ao Senhor\nPra sempre penhorada ao Seu imenso amor",
+    "id": 73
   },
   {
-    "id": "613",
+    "nome": "Bendize, Oh Minh’alma",
+    "letra": "Bendize, oh minh’alma, ao Senhor\nSenhor, Tu és maravilhoso,\nVestido de Glória e Majestade,\nCoberto de luz como de um manto,\nE são as cortinas da Tua morada,\nOs céus numa noite estrelada.\n\nA Tua casa se ergue sobre as nuvens\nDeus vai ligeiro nas asas do vento\nE pinta multicor no pensamento:\nMomento, tempo, intento de adorar\n\nBendize, oh minh’alma, bendize ao Senhor,\nE toda minha vida proclame Seu louvor\nBendize oh minh’alma, bendize ao Senhor\nPra sempre penhorada ao Seu imenso amor",
+    "id": 74
+  },
+  {
     "nome": "Buscai primeiro o Reino de Deus",
-    "letra": "Buscai primeiro o reino de Deus\nE a Sua justiça\nE as demais coisas vos serão acrescentadas\nAleleuia, Aleluia!\n\nAleluia, aleluia!\n\nNem só de pão o homem viverá\nMas de toda Palavra\nQue procede da boca de Deus\nAleluia, aleluia!"
+    "letra": "Buscai primeiro o reino de Deus\nE a Sua justiça\nE as demais coisas vos serão acrescentadas\nAleleuia, Aleluia!\n\nAleluia, aleluia!\n\nNem só de pão o homem viverá\nMas de toda Palavra\nQue procede da boca de Deus\nAleluia, aleluia!",
+    "id": 75
+  },
+  {
+    "nome": "Buscamos Tua promessa",
+    "letra": "Buscamos Tua promessa, Oh Deus\nQue se Teu povo se humilhar e orar\nTu virás sarar nossos corações\nOh, sim, vem!\n\nConfiamos na promessa, Oh Deus\nQue se buscar a Tua face\nTu virás avivar meu coração\nOh, sim, vem!\n\nOh, Senhor, aviva primeiro a mim!\nPurifica os meus lábios\nPois Santo Tu és\nMeus olhos querem Te ver\nEm glória, Te conhecer\nSenhor aviva primeiro a mim!\n\nBuscamos Tua promessa, Oh Deus\nDe por Teu Reino em primeiro lugar\nE Tu virás suprir nossos corações\nOh, sim, vem!\n\nConfiamos na promessa, Oh Deus\nQue se permanecermos na Tua Palavra\nTu derramarás o Espírito em nós\nOh, sim, vem!\n\nOh, Senhor, vem santifica primeiro a mim!\nPurifica os meus lábios\nPois Santo Tu És\nMeus olhos verão o Rei\nTua glória contemplarei\nVem, santifica primeiro a mim!",
+    "id": 76
   }
 ]

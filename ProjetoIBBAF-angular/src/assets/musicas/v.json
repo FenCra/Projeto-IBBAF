@@ -1,47 +1,127 @@
 [
   {
-    "id": "459",
-    "nome": "Vem Santo Espírito (Come Holy Spirit)",
-    "letra": "Vem Santo Espírito enche o Teu povo\nQueremos Tua unção, faz-nos de novo\nTe amamos, oh Senhor\nTeu amor já nos cativou\nE a cada dia queremos dar mais louvor\n\nMe enche com Tua unção\nPonho minha vida em Tuas mãos\nJesus me curvo aos Teus pés\nPara adorar quem Tu és\n\nNão há lugar como aqui\nVim adorar somente a Ti\nTe adoro pelo Espírito de Deus\n\nMe enche com Tua unção\nPonho minha vida em Tuas mãos\nJesus eu sinto o Teu poder\nVir renovar o meu ser\n\nNão há lugar como aqui\nVim adorar somente a Ti\nTe adoro pelo Espírito de Deus"
+    "nome": "Vamos Adorar a Deus",
+    "letra": "Vamos adorar a Deus (2X)\nVamos adorar o Seu Nome\nVamos adorar a Deus\n\nEu só vim louvar a Deus (2X)\nEu só vim louvar o Seu Nome\nEu só vim louvar a Deus\n\nEu sou feliz porque meu Cristo quer (2X)\nFelicidade não é coisa qualquer\nEu sou feliz porque meu Cristo quer\n\nEu tenho paz porque meu Cristo quer (2X)\nE essa paz não é coisa qualquer\nEu tenho paz porque meu Cristo quer\n\nVou para o céu porque meu Cristo quer (2X)\nIr para o céu não é coisa qualquer\nVou para o céu porque meu Cristo quer",
+    "id": 638
   },
   {
-    "id": "466",
-    "nome": "Vem com a Tua Glória Sobre Nós (Derrama)",
-    "letra": "Vem com a Tua Glória sobre nós\nDerrama a Tua Glória sobre nós\nNão conseguiremos ficar de pé\nTão grande é a Tua Glória sobre nós\n\nO peso da Tua Glória está sobre nós\nO brilho da Tua Glória está sobre nós\nNão conseguiremos ficar de pé\nTão grande é a Tua Glória sobre nós\n\nJá vemos Tua Shekinah entre nós\nJá vemos Tua Shekinah sobre nós\nE nos prostraremos aos Teus pés\nTão grande é a Tua Glória sobre nós\n\nA Glória do Cordeiro está entre nós\nA Glória do Cordeiro está sobre nós\nE nos prostraremos aos Teus pés\nTão grande é a Tua Glória sobre nós"
+    "nome": "Vejo A Luz Do Senhor (Brilha Jesus)",
+    "letra": "Vejo a Luz do Senhor que brilha\nBem no meio das trevas brilha\nJesus Cristo é a Luz deste mundo\nNos acorda do sono profundo\nBrilha em mim, brilha em mim\n\nBrilha Jesus, mostra ao mundo\nA luz de Deus Pai\nEspírito de Deus, vem refulge em nós\nFaz transbordar sobre os povos\nTua graça e perdão,\nVem ordenar que haja luz oh Senhor\n\nEu me achego ao Teu trono incrível\nDo finito ao intangível\nPor Teu sangue precioso eu ouso entrar\nToda sombra da alma vem dissipar\nBrilha em mim, brilha em mim\n\nContemplando Tua majestade\nTua luz brilha em nossas faces\nCada dia de glória em glória\nNossas vidas refletem Tua história\nBrilha em mim, brilha em mim",
+    "id": 639
   },
   {
-    "id": "473",
-    "nome": "Verbo de Deus No Princípio (Me Rendo a Ti)",
-    "letra": "Verbo de Deus no princípio, Eterno Tu és Senhor\nCriaste do nada o Universo\nMe rendo a Ti\nAntes que eu existisse pagaste o preço na cruz\nMeus erros levaste em Teus ombros\nMe rendo a Ti\n\nQue posso dizer?\nQue posso fazer?\nSe não entregar-Te, Oh Deus, o meu coração\n\nHoje aos Teus pés eu caminho\nTeu Espírito vive em mim\nConfio nas Tuas promessas\nMe rendo a Ti\n\nQue posso dizer?\nQue posso fazer?\nSe não entregar-Te, Oh Deus, o meu coração\n\nEstarei com as mãos levantadas pra Te louvar\nPois Tu deste tudo a mim\nMeu ser a Ti, oh Senhor, se rende\nO que sou é Teu"
-  },
-  {
-    "id": "479",
-    "nome": "Vem, Visita Tua Igreja",
-    "letra": "Vem! Visita Tua igreja,\nOh Bendito Salvador\n\nSem Tua graça ela murcha\nFicará aqui, sem vigor\n\nVivifica, santifica\nNossas almas, oh Senhor!"
-  },
-  {
-    "id": "480",
-    "nome": "Você Pode Ter",
-    "letra": "Você pode ter a casa repleta de amigos\nParedes e pisos cobertos de bens\nTer um carro do último tipo\nE andar conforme der na cabeça\n\nOu pode até ser um cara que vive apertado\nAté mesmo dentro de um lotação\nCurtindo assim mesmo um fim de semana\nAo andar conforme der na cabeça\n\nMas sempre será como folha no vento\nEsperando o momento de cair\nVocê pode ter tudo aquilo que sonhar\nMas nunca terá a paz que existe lá dentro\nQue não se encontra pra poder comprar\nPorque essa paz só tem a pessoa\nQue se encontra com Cristo"
-  },
-  {
-    "id": "484",
-    "nome": "Vou Me Apresentar a Deus",
-    "letra": "Vou me apresentar a Deus\nComo um sacrificio\nVivo, santo e agradável\nPara o meu Senhor\n\nMinha vida em Teu altar\nComo um sacrifício\nPerfumando este lugar\nPara o Teu louvor\n\nVou me oferecer a Deus\nComo um sacrifício\nCarregando a minha cruz\nComo o meu Senhor\n\nMinha vida consagrar\nComo um sacrifício\nConsumido em Teu altar\nPara o Teu louvor"
-  },
-  {
-    "id": "603",
     "nome": "Vejo O Senhor, Alto e Sublime",
-    "letra": "Vejo o Senhor, Alto e Sublime\nReinando no Trono lá no céu\nAo seu redor, anjos, querubins\nSe prostram ante o trono lá no céu\n\nE dizem: Santo\nE cantam: Santo\nTrês vezes Santo\nÉ o Deus Soberano lá no céu\n\nVejo o Senhor, pelo Santo Espírito\nReinando no Trono do meu ser\nEm seu louvor todos os seus filhos\nSe unem com os anjos lá do céu\n\nE dizem: Santo\nE cantam: Santo\nTrês vezes Santo\nÉ o Deus Soberano do meu ser"
+    "letra": "Vejo o Senhor, Alto e Sublime\nReinando no Trono lá no céu\nAo seu redor, anjos, querubins\nSe prostram ante o trono lá no céu\n\nE dizem: Santo\nE cantam: Santo\nTrês vezes Santo\nÉ o Deus Soberano lá no céu\n\nVejo o Senhor, pelo Santo Espírito\nReinando no Trono do meu ser\nEm seu louvor todos os seus filhos\nSe unem com os anjos lá do céu\n\nE dizem: Santo\nE cantam: Santo\nTrês vezes Santo\nÉ o Deus Soberano do meu ser",
+    "id": 640
   },
   {
-    "id": "614",
+    "nome": "Vem com a Tua Glória Sobre Nós (Derrama)",
+    "letra": "Vem com a Tua Glória sobre nós\nDerrama a Tua Glória sobre nós\nNão conseguiremos ficar de pé\nTão grande é a Tua Glória sobre nós\n\nO peso da Tua Glória está sobre nós\nO brilho da Tua Glória está sobre nós\nNão conseguiremos ficar de pé\nTão grande é a Tua Glória sobre nós\n\nJá vemos Tua Shekinah entre nós\nJá vemos Tua Shekinah sobre nós\nE nos prostraremos aos Teus pés\nTão grande é a Tua Glória sobre nós\n\nA Glória do Cordeiro está entre nós\nA Glória do Cordeiro está sobre nós\nE nos prostraremos aos Teus pés\nTão grande é a Tua Glória sobre nós",
+    "id": 641
+  },
+  {
     "nome": "Vem Com Josué Lutar Em Jericó",
-    "letra": "Vem com Josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão (2x)\n\nSuba os montes devagar\nQue o Senhor vai guerrear\nCerquem os muros para mim\nJericó chegou ao fim\n\nVem com josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão\n\nAs trombetas soarão\nAbalando o ceú e o chão\nCerquem os muros para mim\nJericó chegou ao fim\n\nVem com Josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão"
+    "letra": "Vem com Josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão (2x)\n\nSuba os montes devagar\nQue o Senhor vai guerrear\nCerquem os muros para mim\nJericó chegou ao fim\n\nVem com josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão\n\nAs trombetas soarão\nAbalando o ceú e o chão\nCerquem os muros para mim\nJericó chegou ao fim\n\nVem com Josué lutar em Jericó\nJericó, Jericó\nVem com Josué lutar em Jericó\nE as muralhas ruirão",
+    "id": 642
   },
   {
-    "id": "642",
+    "nome": "Vem Santo Espírito (Come Holy Spirit)",
+    "letra": "Vem Santo Espírito enche o Teu povo\nQueremos Tua unção, faz-nos de novo\nTe amamos, oh Senhor\nTeu amor já nos cativou\nE a cada dia queremos dar mais louvor\n\nMe enche com Tua unção\nPonho minha vida em Tuas mãos\nJesus me curvo aos Teus pés\nPara adorar quem Tu és\n\nNão há lugar como aqui\nVim adorar somente a Ti\nTe adoro pelo Espírito de Deus\n\nMe enche com Tua unção\nPonho minha vida em Tuas mãos\nJesus eu sinto o Teu poder\nVir renovar o meu ser\n\nNão há lugar como aqui\nVim adorar somente a Ti\nTe adoro pelo Espírito de Deus",
+    "id": 643
+  },
+  {
     "nome": "Vem Senhor e Enche Minha Vida",
-    "letra": "Vem Senhor e enche minha vida\nVem com Tua Glória e enche este lugar\nQuero ser como incenso agradável a Ti\nTraz Teu fogo e purifica\nManifesta Teu poder\n\nQuando a glória do Senhor\nSe manifestar em nós\nTodo joelho se dobrará\nToda língua confessará que\nJesus Cristo é o Senhor\n\nA nuvem de Tua glória enche este lugar\nProstrados adoramos\nCom anjos e Querubins\n\nQuando a glória do Senhor\nSe manifestar em nós\nTodo joelho se dobrará\nToda língua confessará que\nJesus Cristo é o Senhor"
+    "letra": "Vem Senhor e enche minha vida\nVem com Tua Glória e enche este lugar\nQuero ser como incenso agradável a Ti\nTraz Teu fogo e purifica\nManifesta Teu poder\n\nQuando a glória do Senhor\nSe manifestar em nós\nTodo joelho se dobrará\nToda língua confessará que\nJesus Cristo é o Senhor\n\nA nuvem de Tua glória enche este lugar\nProstrados adoramos\nCom anjos e Querubins\n\nQuando a glória do Senhor\nSe manifestar em nós\nTodo joelho se dobrará\nToda língua confessará que\nJesus Cristo é o Senhor",
+    "id": 644
+  },
+  {
+    "nome": "Vem, adorar o Rei dos reis (Come Let us Worship)",
+    "letra": "Vem, adorar o Rei dos reis\nO Criador de terra e céus\nVem a Ele com louvor\nBendizei ao Rei, Senhor!\n\nVem, corações e vozes, erguei\nLouvem as maravilhas do Rei\nConfiante eu venho a Ti\nJunto ao trono Te pedir\n\nVem encher o lugar com Tua glória\nVem encher-nos com o Teu poder\nDerramar dos Teus rios, agora\nPara o mundo o Teu Nome temer (e dizer)\n\nTu és Deus e mui digno de louvor\nTu és bom, Deus de infinito amor\nGrande EU SOU, Deus fiel nos caminhos Tu és",
+    "id": 645
+  },
+  {
+    "nome": "Vem, Esta É a Hora",
+    "letra": "Vem, esta é a hora da adoração\nVem, vem dar a Ele o teu coração\nVem, assim como está para adorar\nVem, assim como estás diante do Pai\nVem\n\nToda a língua confessará ao Senhor\nTodo o joelho se dobrará\nMas aquele que a Cristo escolher\nUm tesouro maior terá\n\nToda a língua confessará ao Senhor\nTodo o joelho se dobrará\nE todo aquele que em Cristo crer\nMesmo que esteja morto viverá\nViverá",
+    "id": 646
+  },
+  {
+    "nome": "Vem, Visita Tua Igreja",
+    "letra": "Vem! Visita Tua igreja,\nOh Bendito Salvador\n\nSem Tua graça ela murcha\nFicará aqui, sem vigor\n\nVivifica, santifica\nNossas almas, oh Senhor!",
+    "id": 647
+  },
+  {
+    "nome": "Venha adorar",
+    "letra": "Venha adorar (venha adorar)\nO eterno vivo Deus (o eterno vivo Deus)\nE dar louvor (e dar louvor)\nSó a Ele (só a Ele)\n\nQue estendeu os céus (estendeu os céus)\nQue criou a terra e o mar(criou a terra e o mar)\nE cuja glória (cuja glória)\nSe revela em todo lugar (em todo o lugar)\nE seu poder (seu poder)\nSe manifesta\nOnde quer que eu vá\n\nEle é o meu Deus\nE outro igual não há\n\nVenha adorar (venha adorar)\nA Cristo, o Rei Jesus (a Cristo, o Rei Jesus)\nE dar louvor (e dar louvor)\nSó a Ele (só a Ele)\n\nQue desceu dos céus (desceu dos céus)\nVeio a Terra nos salvar (veio a Terra nos salvar)\nE cuja glória (cuja glória)\nRevela a glória do Pai (a glória do Pai)\nE seu poder (seu poder)\nSe manifesta\nOnde quer que eu vá\n\nEle é o Senhor\nE outro igual não há",
+    "id": 648
+  },
+  {
+    "nome": "Venho Senhor Minha Vida Oferecer (Oferta de Amor)",
+    "letra": "Venho Senhor minha vida oferecer\nComo oferta de amor e sacrifício\nQuero minha vida a Ti entregar\nComo oferta viva em Teu altar\n\nPois pra Te adorar\nFoi que eu nasci\nCumpra em mim o Teu querer\nFaça o que está em Teu coração\nE que a cada dia\nEu queira mais e mais\nEstar ao Teu lado, Senhor",
+    "id": 649
+  },
+  {
+    "nome": "Verbo De Deus",
+    "letra": "Verbo de Deus\nRaiz de Davi\nEstrela da Manhã\nLeão de Judá\n\nAutor da vida\nPríncipe da Paz\nPai da eternidade\nDeus Emanuel\n\nTe adoramos\nTe adoramos\nBendizemos o Teu Nome\nEm toda a terra",
+    "id": 650
+  },
+  {
+    "nome": "Verbo de Deus No Princípio (Me Rendo a Ti)",
+    "letra": "Verbo de Deus no princípio, Eterno Tu és Senhor\nCriaste do nada o Universo\nMe rendo a Ti\nAntes que eu existisse pagaste o preço na cruz\nMeus erros levaste em Teus ombros\nMe rendo a Ti\n\nQue posso dizer?\nQue posso fazer?\nSe não entregar-Te, Oh Deus, o meu coração\n\nHoje aos Teus pés eu caminho\nTeu Espírito vive em mim\nConfio nas Tuas promessas\nMe rendo a Ti\n\nQue posso dizer?\nQue posso fazer?\nSe não entregar-Te, Oh Deus, o meu coração\n\nEstarei com as mãos levantadas pra Te louvar\nPois Tu deste tudo a mim\nMeu ser a Ti, oh Senhor, se rende\nO que sou é Teu",
+    "id": 651
+  },
+  {
+    "nome": "Vim Para Adorar-Te",
+    "letra": "Vim para adorar-Te\nVim para dizer\nQue Te amo oh Pai\nÉs tudo para mim\nE eu exalto o Teu Nome\nEu exalto o Teu Nome\nEu exalto o Teu Nome, oh Pai",
+    "id": 652
+  },
+  {
+    "nome": "Vinde e adoremos (Cante Aleluia)",
+    "letra": "Vinde e adoremos\nCom júbilo ao Senhor\nAo Rochedo da nossa salvação\nNos apresentemos diante Dele\nCelebremos com música e canção\n\nCante ale aleluia, Cante ale aleluia\nCante ale aleluia, Cante ale aleluia\n\nVinde e adoremos\nE prostremo-nos\nAjoelhemo-nos diante do Senhor\nPois é nosso Deus e Criador\nE nos rebanho do Teu pastoreio",
+    "id": 653
+  },
+  {
+    "nome": "Vinde, Adoremos",
+    "letra": "Vinde, adoremos a Jesus\nVinde, adoremos a Jesus\nEle é digno de adoração\nVinde adoremos a Jesus\n\nÁgua viva, meu Libertador\nVida plena Ele dá\nSanto dos santos é o meu Jesus\nVinde adoremos na Sua luz",
+    "id": 654
+  },
+  {
+    "nome": "Vivo feliz",
+    "letra": "Vivo feliz pois sou de Jesus\nE já desfruto o gozo da luz\nSou por Jesus herdeiro de Deus\nEle me leva à glória dos céus\n\nCanta a minh'alma\nCanta ao Senhor\nRende-lhe sempre ardente louvor\n\nAo Seu amor eu me submeti\nE extasiado então me senti\nAnjos descendo trazem dos céus\nEcos da excelsa graça de Deus\n\nSempre vivendo em Seu grande amor\nMe regozijo em meu Salvador\nEsperançoso vivo na luz\nPela bondade do meu Jesus",
+    "id": 655
+  },
+  {
+    "nome": "Você Pode Questionar (Deus Não Pode Mentir)",
+    "letra": "Você não pode questionar, sobre a volta de Jesus\nPode achar razão pra não acreditar\nNão querendo confiar. Desistindo de esperar\nRejeitando o que não pode compreender\n\nMas isso não irá mudar, a verdade sobre Deus\nE a promessa que um dia nos deixou\nDeus não pode mentir\nSe Ele disse que viria, sei que Ele há de vir\nDeus não pode mentir\nSe Ele disse que faria, sei que Ele há de cumprir\nAinda que demore, confie em sua promessa pois\nDeus não pode mentir\n\nQuando foi que Deus falhou? Quando foi que desistiu?\nNão tem Deus sempre mostrando o Seu amor?\nSeu plano completou. Seu Filho enviou\nMe alcançando quando eu era um pecador\nSe Ele veio uma vez e prometeu que vai voltar\nSua face eu sei que vamos contemplar\n\nEle vem, Ele vem, Ele vem\n\nDeus não pode mentir",
+    "id": 656
+  },
+  {
+    "nome": "Você Pode Ter",
+    "letra": "Você pode ter a casa repleta de amigos\nParedes e pisos cobertos de bens\nTer um carro do último tipo\nE andar conforme der na cabeça\n\nOu pode até ser um cara que vive apertado\nAté mesmo dentro de um lotação\nCurtindo assim mesmo um fim de semana\nAo andar conforme der na cabeça\n\nMas sempre será como folha no vento\nEsperando o momento de cair\nVocê pode ter tudo aquilo que sonhar\nMas nunca terá a paz que existe lá dentro\nQue não se encontra pra poder comprar\nPorque essa paz só tem a pessoa\nQue se encontra com Cristo",
+    "id": 657
+  },
+  {
+    "nome": "Volta Sobe Ao Monte (Canção de Pedro)",
+    "letra": "Volta, sobe ao monte ! Sabe que ali Teu mestre morreu\nSolta tua rede, vê de perto o quanto sofreu\nRendeu sua vida e por suas feridas perdão te deu\nE um amor mais forte ainda que a própria morte\n\nPois Reviveu\nCaminha junto ao Senhor, não perguntes onde Ele vai\nConfia o teu caminho às mãos do Pai",
+    "id": 658
+  },
+  {
+    "nome": "Vou agradecer a Jesus",
+    "letra": "Vou agradecer a Jesus o que fez por mim\nBênçãos sem medida\nPra provar o seu amor sem fim\n\nNem anjos podem expressar\nA minha eterna gratidão\nTudo o que sou e o que vier a ser aqui\nEu ofereço a Ti\n\nA Deus seja a glória\nA Deus seja a glória\nA Deus seja a glória\nPelas bênçãos sem fim\n\nFoi na cruz que salvou-me\nSeu poder transformou-me\nA Deus seja a glória\nPelas bênçãos sem fim\n\nQuero viver pra Ti\nTua vontade seguir\nE se algum louvor ganhar\nQuero entregar ao meu Salvador\n\nCom seu sangue salvou-me\nSeu poder transformou-me\nA Deus seja a glória\nPelas bênçãos sem fim\n\nA Deus seja a glória\nA Deus seja a glória\nA Deus seja a glória\nPelas bênçãos sem fim",
+    "id": 659
+  },
+  {
+    "nome": "Vou Me Apresentar a Deus",
+    "letra": "Vou me apresentar a Deus\nComo um sacrificio\nVivo, santo e agradável\nPara o meu Senhor\n\nMinha vida em Teu altar\nComo um sacrifício\nPerfumando este lugar\nPara o Teu louvor\n\nVou me oferecer a Deus\nComo um sacrifício\nCarregando a minha cruz\nComo o meu Senhor\n\nMinha vida consagrar\nComo um sacrifício\nConsumido em Teu altar\nPara o Teu louvor",
+    "id": 660
+  },
+  {
+    "nome": "Vou Me Apresentar a Deus",
+    "letra": "Vou me apresentar a Deus\nComo um sacrifício\nVivo, santo e agradável\nPara o meu Senhor\n\nMinha vida em Teu altar\nComo um sacrifício\nPerfumando este lugar\nPara o Teu louvor\n\nVou me oferecer a Deus\nComo um sacrifício\nCarregando a minha cruz\nComo o meu Senhor\n\nMinha vida consagrar\nComo um sacrifício\nConsumido em Teu altar\nPara o Teu louvor",
+    "id": 661
+  },
+  {
+    "nome": "Vê! Teus Olhos No Espelho",
+    "letra": "Vê! Teus olhos no espelho\nPor fora um herói, por dentro um ladrão\nVê! Só resta em você\nNos poucos aamigos, motivos em vão\nViu? Desacreditado,\nNo mundo queimado por ser o que é\nVai! Tão longe do Pai,\nPensando e chorando tua falta de fé\n\nSai dessa revolta, pensa e volta\nQuebra os teus grilhões\nDeus tem vida plena,\nVale a pena retornar e ver\nVer no amor antigo,\nO abraço amigo a festa começar\nPois arrependido mais um filho volta ao lar",
+    "id": 662
   }
 ]

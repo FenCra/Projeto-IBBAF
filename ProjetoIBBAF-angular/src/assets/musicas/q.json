@@ -1,47 +1,217 @@
 [
   {
-    "id": "468",
+    "nome": "Quando a Alma Abrir (A Preço de Sangue)",
+    "letra": "Quando a alma abrir\nE a verdade reinar\nDissipando as trevas com a Sua luz\nTe libertará\n\nÁgua então fluirá (Água então fluirá)\nVida em ti haverá (Vida em ti haverá)\nTão palpável como a tua mão\nPaz no coração\n\nAlegria obtida a preço de sangue\nA paz concedida a preço de vida\nA morte vencida e todo o pecar\nSangue derramado com alegria\nVida que é dada por ter amado\nCristo morrendo pra te salvar",
+    "id": 444
+  },
+  {
+    "nome": "Quando a Música Parar (A Razão do Louvor)",
+    "letra": "Quando a música parar e tudo terminar\nE eu simplesmente vir a Ti\nAnelando trazer algo digno do amor\nQue tens por meu coração\n\nDarei mais que uma canção\nPorque a canção em si mesma\nNão é o que Tu queres\nTu buscas bem lá no fundo\nAlém da aparência dentro do meu coração\n\nVoltarei para a razão do louvor\nQue é viver Contigo\nÉ viver Contigo Jesus\nEu sei que já cantei por outras razões\nMas hoje o meu louvor\nSó tem a ver Contigo Jesus\n\nEternamente és digno, não posso expressar\nO louvor que mereces\nAnte a Ti sou fraco e pobre\nMas o que tenho e sou são Teus\nAté o meu respirar\n\nDarei mais que uma canção\nPorque a canção em si mesma\nNão é o que Tu queres\nTu buscas bem lá no fundo\nAlém da aparência dentro do meu coração",
+    "id": 445
+  },
+  {
+    "nome": "Quando a Noite Escura For (Esperarei em Ti)",
+    "letra": "QUANDO A NOITE ESCURA FOR\nE O MEU CORAÇÃO TEMER\nE O INIMIGO EM SEU FUROR\nQUER ME DESTRUIR DE VEZ\nEU CONFIO EM TI, SENHOR,\nE EM SILÊNCIO ESPERAREI\nFIRME EM TUA PALAVRA ESTOU\n\nTU ÉS MINHA ROCHAE FORTALEZA\nO MEU REFÚGIO, MINHA CERTEZA\nCONFIAREIE ESPERAREI EM TI\n\nTU ÉS MEU ESCUDO E FORÇA,\nO SOCORRO NAS BATALHAS\nMESMO QUANDO O MAL AVANÇA,\nDO SENHOR VEM A VITÓRIA\nEU JÁ SEI O FIM DA HISTÓRIA:\nO INIMIGO DERROTADO\nE EU SEGURO EM TUA GLÓRIA\n\nTU ÉS MINHA ROCHA E FORTALEZA\nO MEU REFÚGIO, MINHA CERTEZA\nCONFIAREI E ESPERAREI EM TI\nÉS MEU FORTE ABRIGO NA TEMPESTADE\nO MEU DESCANSO É TUA VONTADE\nCONFIAREI E ESPERAREI EM TI\n\nVOU DERRAMAR  MEU CORAÇÃO\nEU CONFIO EM TI\nMEU SALVADOR, MEU GRANDE AMOR\nEU CONFIO EM TI\n\nTU ÉS DEUS DE AMOR FIEL\nE O MEU CORAÇÃO É TEU\nEU NÃO FIZ POR MERECER\nMAS TUA GRAÇA ME ALCANÇOU\nNÃO HÁ MAIS NADA A TEMER,\nNEM A MORTE, PERDA OU DOR\nPOIS SEGURO EM TI ESTOU\n\nTU ÉS MINHA ROCHAE FORTALEZA\nO MEU REFÚGIO, MINHA CERTEZA\nCONFIAREI E ESPERAREI EM TI\nÉS MEU FORTE ABRIGO NA TEMPESTADE\nO MEU DESCANSO É TUA VONTADE\nCONFIAREI E ESPERAREI EM TI",
+    "id": 446
+  },
+  {
+    "nome": "Quando Em Cativeiro Te Levaram de Sião",
+    "letra": "Quando em cativeiro de levaram de Sião\nE os teus sacerdotes prantearam de aflição\nFoi como morrer de vergonha e dor\nCaminhava triste o povo forte do Senhor\n\nAh, Jerusalém\nPorque deixastes de adorar\nO Deus vivo que em tantas batalhas te ajudou\nChora Israel, num lamento só\nTalvez Deus se  lembre\nDo (bichinho de Jacó)\n\nChora Israel\nBabilônia não é teu lugar\nClama ao teu Deus\nEle te ouvirá\nDo inimigo te libertará\n\nChora Israel\nBabilônia não é teu lugar\nClama ao teu Deus\nEle te ouvirá\nTeu libertador enviará\n\nAh, Jerusalém\nPorque deixastes de adorar\nO Deus vivo que em tantas batalhas te ajudou\nChora Israel, num lamento só\nTalvez Deus se  lembre\nDo (bichinho de Jacó\n\nChora Israel\nBabilônia não é teu lugar\nClama ao teu Deus\nEle te ouvirá\nDo inimigo te libertará\n\nChora Israel\nBabilônia não é teu lugar\nClama ao teu Deus\nEle te ouvirá\nJesus Cristo te libertará",
+    "id": 447
+  },
+  {
+    "nome": "Quando Estamos Juntos",
+    "letra": "Quando estamos juntos\nNum só coração, em uma só fé\nDesfrutando a comunhão\nO Espírito Santo começa a operar\nFaz sinais e maravilhas\nFaz minha vida incendiar\n\nHá uma chama que arde\nUm fogo santo\nQue enche os nossos corações\n\nE essa chama não se apagará\nChama viva, vinda do Altar\nQue renova os corações\nNos faz transbordar\nFaz a nossa luz no mundo brilhar\n\nE essa chama não se apagará\nChama viva vinda do Altar\nPurifica o meu coração\nFaz frutificar\nE ao Senhor Jesus no mundo brilhar",
+    "id": 448
+  },
+  {
     "nome": "Quando Este Mundo Ele Viu (Rosa Vermelha)",
-    "letra": "Quando este mundo Ele viu grande multidão\nAndando sozinha sem nada na mão\nSua vida foi rosa vermelha cravada na cruz\nQuem passou por Ele sentiu compaixão\n\nA rosa murchando e sangrando,\nEsvaindo-se em dor\nPerdendo a cor, sem respiração\nMas o Seu perfume se apega a mão que a esmagou\nE quem a feriu recebeu o perdão\n\nAgora Seu sangue vertendo, caindo no chão\nTrês dias morrendo, sentiu solidão\nNo terceiro dia o mundo encheu-se de amor\nE a rosa vermelha de novo brotou\n\nJesus é o Lírio dos Vales, Rosa de Saron\nE até seus espinhos são marcas de amor\nE hoje Ele vive a plantar um grande jardim\nSe você quiser serás uma flor\nUma flo"
+    "letra": "Quando este mundo Ele viu grande multidão\nAndando sozinha sem nada na mão\nSua vida foi rosa vermelha cravada na cruz\nQuem passou por Ele sentiu compaixão\n\nA rosa murchando e sangrando,\nEsvaindo-se em dor\nPerdendo a cor, sem respiração\nMas o Seu perfume se apega a mão que a esmagou\nE quem a feriu recebeu o perdão\n\nAgora Seu sangue vertendo, caindo no chão\nTrês dias morrendo, sentiu solidão\nNo terceiro dia o mundo encheu-se de amor\nE a rosa vermelha de novo brotou\n\nJesus é o Lírio dos Vales, Rosa de Saron\nE até seus espinhos são marcas de amor\nE hoje Ele vive a plantar um grande jardim\nSe você quiser serás uma flor\nUma flo",
+    "id": 449
   },
   {
-    "id": "487",
+    "nome": "Quando Estou Triste e Minha Alma (You Raise Me Up)",
+    "letra": "Quando estou triste e minha alma cansada\nProblemas vem meu coração pesar\nEu vou a Ti, prostrado, em silêncio\nE a Tua presença vem me consolar\n\nDeus me levanta acima das montanhas\nDeus me levanta pra andar por sobre o mar\nA minha força é estar sobre os Seus ombros\nDeus me levanta além do que eu sou capaz\n\nMesmo eu caindo, Deus não me abandona\nMesmo sofrendo, Nele encontro paz\nE um dia, eu sei, a tempestade vai passar\nE com amor, meu Deus me erguerá\n\nDeus me erguerá acima das montanhas\nDeus me erguerá pra andar por sobre o mar\nA minha força é estar sobre os Seus ombros\nDeus me erguerá além do que eu sou capaz\n\nNão há viver que não anseie estar em Ti\nCada imperfeito e aflito coração\nEm Tua presença se enche de alegria\nE em Teu olhar vislumbra a salvação\n\nDeus me erguerá acima das montanhas\nDeus me erguerá pra andar por sobre o mar\nA minha força é estar sobre os Seus ombros\nDeus me erguerá além do que eu sou capaz",
+    "id": 450
+  },
+  {
+    "nome": "Quando eu Clamo Teu Nome (I've Found a Love)",
+    "letra": "Quando eu clamo o Teu Nome Tu ouves\nQuando eu caio Tu estás junto a mim\nMe livraste das trevas e hoje\nÉs minha fonte de vida sem fim\n\nFoi graça que me resgatou\nTe dou tudo o que sou\n\nEu encontrei um amor que não posso medir\nFé e esperança incomparáveis em Ti\nEstava morto e agora eu vivo em Jesus\n\nÉs meu Deus, Rocha e Fortaleza\nConfiarei todo o tempo em Ti\nDamos glória, louvor, realeza\nAo Senhor sobre o trono no céu",
+    "id": 451
+  },
+  {
+    "nome": "Quando Eu Contemplei a Rude Cruz (When I Survey)",
+    "letra": "Quando eu contemplei a rude cruz\nNa qual o Rei da Glória morreu\nTudo o que eu sou, que tenho e que sei\nPerdeu o valor e por Jesus deixei\n\nNão deixes Senhor eu me gloriar\nDa salvação que Cristo me deu\nAs coisas vãs que eu quis com fervor\nEu lanço aos pés do meu Salvador\n\nRepare em seus pés, seu rosto e mãos\nA dor e o amor fluem juntos na cruz\nHouve algum dia tal união mais preciosa\nOu espinhos em coroa tão gloriosa\n\nSe em Teu altar eu ofertasse\nOvelhas, bois, riquezas são nada\nPois teu amor infinito assim\nRequer meu ser, minha vida e tudo em mim",
+    "id": 452
+  },
+  {
     "nome": "Quando Eu Contemplo (What Can I Do)",
-    "letra": "Quando eu contemplo um glorioso por do sol\nObra de artista em pinceladas sobre o céu\nVejo os Teus mistérios em galáxias mil nos céus\nNão compreendo como sou\nTão amado por tão Grande Deus\n\nO que dizer? Te louvo!\nO que fazer? Me entregar a Ti\nAleluia, Aleluia\n\nO que dizer? Te adoro!\nEm cada dia e em tudo o que eu fizer\nAleluia, Aleluia, Aleluia\n\nQuando eu ouço a história deste Deus de Glória\nQue se fez humano e sofreu por mim\nFoi na cruz pregado mas nem mesmo a morte\nO deteve em seu poder\nMeu Jesus, já ressuscitou!"
+    "letra": "Quando eu contemplo um glorioso por do sol\nObra de artista em pinceladas sobre o céu\nVejo os Teus mistérios em galáxias mil nos céus\nNão compreendo como sou\nTão amado por tão Grande Deus\n\nO que dizer? Te louvo!\nO que fazer? Me entregar a Ti\nAleluia, Aleluia\n\nO que dizer? Te adoro!\nEm cada dia e em tudo o que eu fizer\nAleluia, Aleluia, Aleluia\n\nQuando eu ouço a história deste Deus de Glória\nQue se fez humano e sofreu por mim\nFoi na cruz pregado mas nem mesmo a morte\nO deteve em seu poder\nMeu Jesus, já ressuscitou!",
+    "id": 453
   },
   {
-    "id": "597",
-    "nome": "Quem És Tu ? Te perguntaram Certo Dia",
-    "letra": "Quem és Tu?\nTe perguntaram certo dia com ironia atroz\nQuem és Tu?\nQue até os mortos nos sepulcros, ouvem Tua voz\nA própria morte derrotas-Te oh ! Imarcescível luz\nEu sei quem és, é o Filho de Deus, Tu és Jesus\nTu és Deus Forte, Conselheiro, Pai da Eternidade\nE Príncipe da Paz\n\nDeste paz a todo homem\nQue buscava pelo Teu perdão\nCada vez que Tu falavas\nLibertavas grandes multidões\nEternamente és o mesmo Aleluia sei quem és\nExcelsa luz és o Filho de Deus Tu és Jesus\nTu és o último, és o primeiro\nE de Judá és o Leão audaz\nTu és Deus Forte, Conselheiro, Pai da Eternidade\nE Príncipe da paz, Pai da Eternidade\nE Príncipe da paz"
-  },
-  {
-    "id": "599",
-    "nome": "Quero seguir-Te",
-    "letra": "Quero seguir-Te, quero viver como Tu\nQuero seguir-Te dia após dia\nQuero seguir-Te, quero viver como Tu\nQuero seguir-Te dia após dia\nQuero seguir-Te\n\nQue o meu coração seja quebrantado\nQue o meu prazer seja fazer a Tua vontade\nQue o Teu amor flua em minha vida\nQue o Teu perdão me leve a perdoar os meus inimigos\n\nQuero seguir-Te"
-  },
-  {
-    "id": "607",
-    "nome": "Quero Conhecer-Te",
-    "letra": "Quero conhecer-Te\nCada dia mais e mais\nEntrar em Tua presença e adorar\nDerrama Tua glória\nQueremos ter muito mais de Ti\nQueremos Tua presença, Jesus\n\nAo que está sentado sobre o trono\nAo que vive para sempre e sempre\nSeja a glória, seja a honra e o poder\nSeja a glória, seja a honra e o poder"
-  },
-  {
-    "id": "609",
-    "nome": "Quando Jesus estendeu",
-    "letra": "A minha alma estava longe\nDo caminho do Senhor\nEu era cego e desprezível pecador\nMas Jesus já transformou\nMinhas trevas em luz\nQuando Ele estendeu Sua mão para mim\n\nQuando Jesus estendeu a Sua mão\nQuando Ele estendeu a Sua mão para mim\nEu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu Sua mão para mim\n\nAgora me regozijo\nDesde que O aceitei\nE na tempestade eu posso sossegar\nPois com Ele estou liberto\nDo perigo e do mal\nDesde que estendeu Sua mão para mim\n\nQuando Jesus estendeu a Sua mão\nQuando Ele estendeu a Sua mão para mim\nEu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu Sua mão para mim"
-  },
-  {
-    "id": "620",
     "nome": "Quando eu tiver que andar (Eu não estou só)",
-    "letra": "Quando eu tiver que andar por águas\nSei que junto a mim estás\nE até se eu for lançado ao fogo\nSei que me protegerás\nMesmo no Vale da Morte\nEu não temerei\n\nEu não estou só\nEu não estou só\nDeus vai à minha frente\nE jamais me deixará\n\nQuando em meio à dor profunda\nNas trevas brilha a Tua luz\nA escuridão não prevalecerá\nEu me achegarei a Ti\nÉ Deus quem luta minhas batalhas\nEu não temerei\n\nEu não estou só\nEu não estou só\nDeus vai à minha frente\nE jamais me deixará\n\nTu me abraças, me resgatas\nE me dizes: \"tu és meu !\"\nTu me abraças, me resgatas\nE me dizes: \"Sou teu Deus !\""
+    "letra": "Quando eu tiver que andar por águas\nSei que junto a mim estás\nE até se eu for lançado ao fogo\nSei que me protegerás\nMesmo no Vale da Morte\nEu não temerei\n\nEu não estou só\nEu não estou só\nDeus vai à minha frente\nE jamais me deixará\n\nQuando em meio à dor profunda\nNas trevas brilha a Tua luz\nA escuridão não prevalecerá\nEu me achegarei a Ti\nÉ Deus quem luta minhas batalhas\nEu não temerei\n\nEu não estou só\nEu não estou só\nDeus vai à minha frente\nE jamais me deixará\n\nTu me abraças, me resgatas\nE me dizes: \"tu és meu !\"\nTu me abraças, me resgatas\nE me dizes: \"Sou teu Deus !\"",
+    "id": 454
   },
   {
-    "id": "631",
+    "nome": "Quando Jesus estendeu",
+    "letra": "A minha alma estava longe\nDo caminho do Senhor\nEu era cego e desprezível pecador\nMas Jesus já transformou\nMinhas trevas em luz\nQuando Ele estendeu Sua mão para mim\n\nQuando Jesus estendeu a Sua mão\nQuando Ele estendeu a Sua mão para mim\nEu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu Sua mão para mim\n\nAgora me regozijo\nDesde que O aceitei\nE na tempestade eu posso sossegar\nPois com Ele estou liberto\nDo perigo e do mal\nDesde que estendeu Sua mão para mim\n\nQuando Jesus estendeu a Sua mão\nQuando Ele estendeu a Sua mão para mim\nEu era pobre, perdido\nSem Deus, sem Jesus\nQuando Ele estendeu Sua mão para mim",
+    "id": 455
+  },
+  {
+    "nome": "Quando Olho Tua Santidade",
+    "letra": "Quando olho Tua Santidade\nQuando eu vejo Tua Majestade\nQuando todo outro brilho se apaga\nDiante da Tua luz\n\nQuando eu lembro da alegria\nDe Te encontrar\nMinha vontade submissa\nSobre Teu Altar\nQuando todo outro brilho se apaga\nDiante da Tua luz\n\nVenho adorar, venho adorar\nEu vivo pra Te adorar, Senhor",
+    "id": 456
+  },
+  {
+    "nome": "Quando Sonhos são Desfeitos (Sonhos Desfeitos)",
+    "letra": "Quando sonhos são desfeitos\nTudo à volta é ilusão\nNada é certo em teu viver\nE os planos do Senhor\nNão parecem se cumprir\n\nTantas vezes já chorando\nTantas lágrimas de entrega\nO desejo do Senhor\nQue por ti morreu na cruz\nE te dar vida sem fim\n\nPode você hoje confiar\nQue Jesus nunca te falhará\nNunca mudou! E nunca há de mudar\nPode o mundo desistir\nEle o mesmo será\n\nPode o mundo divergir\nEle o mesmo será\n\nPode o mundo até mentir\nEle o mesmo será",
+    "id": 457
+  },
+  {
+    "nome": "Quando Terminar Esta Vida (Foi Graça)",
+    "letra": "Quando terminar esta vida\nE lá no céu eu chegar\nHaverá uma multidão de irmãos\nEsperando pra me abraçar,\nE perguntarão a uma voz,\nVoltados para mim:\n“Oh conta-nos como você irmão,\nVenceu e chegou aqui”\n\nE falarei, e cantarei de Jesus que me salvou\nE que por este pecador a Si mesmo se entregou.\nFoi graça, graça, superabundante graça\nGraça, graça, preciosa e doce graça.\n\nFoi graça irmão, graça irmão,\nEu vos digo que foi assim\nFoi só pela graça de Jesus\nQue eu venci e cheguei ao fim.",
+    "id": 458
+  },
+  {
+    "nome": "Que alegria neste dia (Dia Festivo)",
+    "letra": "Que alegria neste dia\nNós estamos a gozar!\nNeste ensejo bom desejo\nTemos: só a Deus louvar.\n\nOh! Cantemos, pois, com alegria\nNeste grande e mui festivo dia!\nVê! Vê! O que nos fez o Rei dos reis\n\nQue alegria neste dia\nEnche-nos o coração!\nInimigos e perigos\nJá venceu o Capitão.\n\nQue alegria neste dia\nTêm os crentes em Jesus\nReunidos os remidos\nFazem tudo em sua luz!\n\nDeus glorioso, Deus bondoso,\nAbençoa-nos aqui\nQue esta igreja sempre seja\nConsagrada só a Ti!",
+    "id": 459
+  },
+  {
+    "nome": "Que Amor é Esse?",
+    "letra": "Que amor é esse?\nQue sofre em meu lugar as minhas culpas\nQue tira dos meus ombros um fardo imenso\nQue está além de todo entendimento\n\nQue amor é esse?\nQue toma sobre Si os meus pecados\nE aceita em meu lugar ser humilhado\nE pede que eu seja perdoado\n\nQue amor é esse?\nQue sente as dores que seriam minhas\nE morre para que eu tenha vida\nEternamente junto ao Pai\n\nQue amor é esse?\nQue além da Luz e a Vida, é o Caminho\nQue me faz ver que eu não estou sozinho\nNão vivo eu, mas Ele vive em mim\n\nQue amor é esse?",
+    "id": 460
+  },
+  {
     "nome": "Que consolação tem meu coração",
-    "letra": "Que consolação tem meu coração\nDescansando no poder de Deus\nEle tem prazer em me proteger,\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus.\n\nSempre avente vou, bem contente estou\nDescansando no poder de Deus\nTudo hei de vencer pelo seu poder\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus\n\nNão recearei, nada temerei\nDescansando no poder de Deus\nTenho paz e amor junto ao meu Senhor\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus\n\nLutas sem cessar hei de atravessar\nDescansando no poder de Deus\nNão me deixará, mas me susterá\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus"
+    "letra": "Que consolação tem meu coração\nDescansando no poder de Deus\nEle tem prazer em me proteger,\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus.\n\nSempre avente vou, bem contente estou\nDescansando no poder de Deus\nTudo hei de vencer pelo seu poder\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus\n\nNão recearei, nada temerei\nDescansando no poder de Deus\nTenho paz e amor junto ao meu Senhor\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus\n\nLutas sem cessar hei de atravessar\nDescansando no poder de Deus\nNão me deixará, mas me susterá\nDescansando no poder de Deus\n\nDescansando nos eternos braços do meu Deus\nVou seguro, descansando no poder de Deus",
+    "id": 461
   },
   {
-    "id": "645",
+    "nome": "Que Mudança",
+    "letra": "Que mudança em mim fez\nO meu Bom Jesus\nVindo Ele ao meu coração\nDeu-me paz Divinal\nDeu-me gozo e luz\nEntrando no meu coração\n\nEntrando no meu coração (2X)\nQue mudança em mim fez\nO meu Bom Jesus\nVindo Ele ao meu coração\n\nEu andava perdido\nJesus me salvou\nEntrando no meu coração\nMeus pecados, sem conta,\nSeu sangue lavou\nVindo Ele no meu coração\n\nE agora, do céu\nA certeza me deu\nEntrando no meu coração\nSeu Espírito, o Selo\nE o Penhor concedeu\nVindo Ele no meu coração\n\nPelo vale da morte\nNão temo passar\nCom Ele no meu coração\nÀ cidade celeste\nMe vai transportar\nO Guarda do meu coração",
+    "id": 462
+  },
+  {
+    "nome": "Quem Há Como Tu? (Who Is There Like You)",
+    "letra": "Quem há como Tu?\nE quem mais daria a vida assim?\nNa cruz sofrendo\nEm meu lugar\n\nComo agradecer-Te?\nToda a criação adora a Ti\nTu nos sustentas\nPor Teu poder\n\nEntão ergo a minha voz\nErgo as minhas mãos\nExalto a Jesus\nE descanso em Ti\nTeu amor me conquistou\nMe fez feliz!\n\nConfio em Tua voz\nConfio em Tua cruz\nNo sangue de Jesus\nNo Deus que é Fiel\nTu transformas meu viver\nCom Teu poder",
+    "id": 463
+  },
+  {
+    "nome": "Quem Nos Separará",
+    "letra": "Quem nos separará\nDo amor de Cristo?\nSerá tribulação\nAngustia ou perseguição?\nFome ou nudez\nPerigo ou espada?\nQuem nos separará\nDo amor de Cristo?\n\nPois eu estou bem certo\nDe que nem morte, nem vida\nNem anjos, nem principados\nNem coisas do presente, nem do porvir\n\nNem poderes, nem alturas\nNem profundidade\nNem qualquer outra criatura\nPoderá nos separar\nDo amor de Deus\nQue está em Jesus Cristo\nNosso Senhor\nQue está em Jesus Cristo\n\nNada, nada, poderá nos separar\nNada, nada, poderá nos separar\nDo amor de Deus\nQue está em Jesus Cristo\nNosso Senhor\nQue está em Jesus Cristo",
+    "id": 464
+  },
+  {
+    "nome": "Quem Pode Livrar",
+    "letra": "Quem pode livrar como o Senhor?\nEle é Poderoso pra me salvar\n\nQuando os meus inimigos\nSe levantaram contra mim\n\nO Senhor estendeu\nSua Mão para mim\nE me deu a vitória",
+    "id": 465
+  },
+  {
+    "nome": "Quem Sou Eu (Who am I)",
+    "letra": "Quem sou eu?\nPra que o Deus de toda terra\nMe conheça pelo nome\nE se preocupe com minha dor\nQuem sou eu? Pra que a Estrela da manhã\nIlumine o caminho deste duro coração\n\nNão por causa de quem sou\nMas por tudo que fizestes\nNão por nada que eu fizer\nMas por tudo que Tu és\n\nEu sou como a flor que cedo murcha\nQue aparece e vai embora\nComo onda no oceano assim como o vapor\nE mesmo assim escutas meu clamar\nMe sustentas se eu tropeçar\nE me mostras quem eu sou: eu sou Teu\n\nQuem sou eu? Pra ser visto com amor\nMesmo em meio ao pecado\nTu me fazes levantar\nQuem sou eu? Pra que a voz que acalma o mar\nSe levante sobre as ondas\nE acalme a tempestade em mim\n\nA quem temerei?\nA quem temerei?\nEu sou Teu...\nEu sou Teu...",
+    "id": 466
+  },
+  {
+    "nome": "Quem é como Tu? (Magnificent)",
+    "letra": "Quem é como Tu?\nQuem estrelas pôs nos céus?\nQue acalma o mar e as ondas\nQue se agitam contra mim\n\nQuem é como Tu?\nQuem nos trouxe para a luz?\nA glória das nações!\nEu me entrego em teu amor\n\nTu és Magnífico\nMaravilhoso, Eterno Deus\nGlorioso\nJesus, nada se compara a Ti\n\nTu és Magnífico\nPoderoso Conselheiro\nRei Formoso\nDeus de toda luz nada se compara a Ti\nSenhor Jesus\n\nQuando o sol se põe\nTu nos chamas pra adorar\nE cedo de manhã\nOs Teus filhos vêm louvar\n\nQuem é como Tu?\nQuem nos trouxe para a luz\nA glória das nações!\nEu me entrego em teu amor",
+    "id": 467
+  },
+  {
+    "nome": "Quem É Este (Deus de Milagres)",
+    "letra": "Quem é este que faz o mar se acalmar\nE a tempestade obedece a Tua voz?\nQuem é este que anda sobre as águas\nE por onde passa tudo pode transformar?\n\nQuem é este que todas as coisas pode ver\nE o coração do homem sondar?\nQuem é este que cura as doenças\nE o corpo e a alma pode restaurar?\n\nO Seu Nome é Jesus, o Filho de Deus\nMorreu na cruz em meu lugar\nMas a morte venceu e ressuscitou\nIgual ao meu Deus não há\n\nO meu Deus é o Deus de milagres\nNão há limites para o seu poder agir\nRealiza o impossível\nPara Ele nada é tão difícil\nE o maior milagre já operou em mim\nE o maior milagre quer operar em ti\n\nQuem é este que fecha a boca dos leões\nE na fornalha ardente pode caminhar?\nQuem é este que ressuscita os mortos\nE uma nova vida faz o homem experimentar?\n\nQuem é este que abre as portas das prisões\nE em liberdade faz seus servos caminhar?\nQuem é este que diz: “Venho sem demora\nPara a minha amada noiva buscar”\n\nO Seu Nome é Jesus, o Filho de Deus\nMorreu na cruz em meu lugar\nMas a morte venceu e ressuscitou\nIgual ao meu Deus não há\n\nO meu Deus é o Deus de milagres\nNão há limites para o seu poder agir\nRealiza o impossível\nPara Ele nada é tão difícil\nE o maior milagre já operou em mim\nE o maior milagre quer operar em ti",
+    "id": 468
+  },
+  {
+    "nome": "Quem És Tu",
+    "letra": "Quem és Tu\nA surgir como o sol?\nCheio desta luz\nTão intenso ardor\nTu és o Amado meu\nTraz-me junto a Ti\n\nQuem és Tu\nA acenar para mim?\nNão posso explicar\nQuão formoso és\nTu és o Amado meu\nTraz-me junto a Ti\nTraz-me junto a Ti\nPra correr e voar\nEstaremos juntos\n\nQuem és Tu\nQue vens consolar?\nSó de olhar pra Ti\nCapturado sou\nTu és o Amado meu\nTraz-me junto a Ti\nTraz-me junto a Ti",
+    "id": 469
+  },
+  {
+    "nome": "Quem És Tu ? Te perguntaram Certo Dia",
+    "letra": "Quem és Tu?\nTe perguntaram certo dia com ironia atroz\nQuem és Tu?\nQue até os mortos nos sepulcros, ouvem Tua voz\nA própria morte derrotas-Te oh ! Imarcescível luz\nEu sei quem és, é o Filho de Deus, Tu és Jesus\nTu és Deus Forte, Conselheiro, Pai da Eternidade\nE Príncipe da Paz\n\nDeste paz a todo homem\nQue buscava pelo Teu perdão\nCada vez que Tu falavas\nLibertavas grandes multidões\nEternamente és o mesmo Aleluia sei quem és\nExcelsa luz és o Filho de Deus Tu és Jesus\nTu és o último, és o primeiro\nE de Judá és o Leão audaz\nTu és Deus Forte, Conselheiro, Pai da Eternidade\nE Príncipe da paz, Pai da Eternidade\nE Príncipe da paz",
+    "id": 470
+  },
+  {
+    "nome": "Queremos Ver",
+    "letra": "Queremos ver Jesus ser exaltado\nEm nossas vidas, em nossa nação\nQue seu Nome seja santificado\nQueremos ver santos os corações\n\nQueremos ver\nQueremos ver\nQueremos ver Jesus ser exaltado\n\nPasso a passo avançando\nNos caminhos do Senhor\nNa oração e na Palavra\nO exaltamos com louvor",
+    "id": 471
+  },
+  {
+    "nome": "Quero Adorar",
+    "letra": "Quero adorar\nAté estar envolto em amor\nEstar em Tua Presença\nProstrado ante o Teu Trono\n\nE pelo Espírito\nSer conduzido ao Altar\nSão momentos eternos\nNo mais Santo Lugar\n\nJesus\nConquistou meu coração\nSegurou-me com Tuas mãos\nDeu-me a certeza que eu sou Teu\nTeu amor\nO Teu amor me envolveu\nEu nunca mais vou estar só\nNo mais Santo Lugar",
+    "id": 472
+  },
+  {
+    "nome": "Quero Andar Contigo (Amado Meu)",
+    "letra": "Quero andar Contigo\nQuero viver Tua santidade\nQuero estar em Sua presença\nAmado meu\n\nEu Te entrego o meu coração\nEu Te dou minha adoração\nOfereço minha vida a Ti\nAmado meu\n\nVem, me encontrar\nOh, vem me abraçar\nFazer a Tua vontade\nEm meu coração (2x)\n\nAmado meu...",
+    "id": 473
+  },
+  {
+    "nome": "Quero Conhecer-Te",
+    "letra": "Quero conhecer-Te\nCada dia mais e mais\nEntrar em Tua presença e adorar\nDerrama Tua glória\nQueremos ter muito mais de Ti\nQueremos Tua presença, Jesus\n\nAo que está sentado sobre o trono\nAo que vive para sempre e sempre\nSeja a glória, seja a honra e o poder\nSeja a glória, seja a honra e o poder",
+    "id": 474
+  },
+  {
+    "nome": "Quero Louvar-Te",
+    "letra": "Quero louvar-Te\nSempre mais e mais (2x)\nBuscar o Teu querer\nTua graça conhecer\nQuero louvar-Te\n\nAs aves o céu cantam para Ti\nAs feras do campo\nRefletem Teu poder\nQuero cantar\nQuero levantar\nAs minhas mãos a Ti\n\nQuero servir-Te\nSempre mais e mais (2x)\nBuscar o Teu querer\nTua graça conhecer\nQuero servir-Te\n\nQuero amar-Te\nSempre mais e mais(2x)\nBuscar o Teu querer\nTua graça conhecer\nQuero amar-Te",
+    "id": 475
+  },
+  {
+    "nome": "Quero ouvir Tua voz",
+    "letra": "Quero ouvir Tua voz\nFalando ao meu coração\nMostrando-me o caminho\nPor onde devo andar\n\nTua Palavra é fiel\nTuas promessas reais\nEis-me aqui meu Senhor\nFala ao meu coração\n\nVem e fala comigo Senhor\nEstou pronto pra ouvir Tua voz\nQuero sempre Te obedecer\nTua vontade é o meu prazer",
+    "id": 476
+  },
+  {
+    "nome": "Quero Que Valorize",
+    "letra": "Quero que valorize o que você tem\nVocê é um ser você é alguém\nTão importante para Deus\nNada de ficar sofrendo angustia e dor\nNesse seu complexo inferior\nDizendo as vezes que não é ninguém\n\nEu venho falar\nDo valor que você tem (2 X)\n\nEle está em você\nO Espírito Santo se move em você\nAté com gemidos inexprimíveis\nDaí você pode então perceber\nQue pra Ele há algo\nImportante em você\nPor isso levante e cante\nExalte ao Senhor\nVocê tem o valor\nO Espírito Santo se move em você",
+    "id": 477
+  },
+  {
+    "nome": "Quero seguir-Te",
+    "letra": "Quero seguir-Te, quero viver como Tu\nQuero seguir-Te dia após dia\nQuero seguir-Te, quero viver como Tu\nQuero seguir-Te dia após dia\nQuero seguir-Te\n\nQue o meu coração seja quebrantado\nQue o meu prazer seja fazer a Tua vontade\nQue o Teu amor flua em minha vida\nQue o Teu perdão me leve a perdoar os meus inimigos\n\nQuero seguir-Te",
+    "id": 478
+  },
+  {
+    "nome": "Quero Subir",
+    "letra": "Quero subir\nAo monte santo de Sião\nE entoar um novo cântico\nAo meu Deus\nMais que palavras\nMinha vida eu quero entregar\nPurifica o meu coração\nPara entrar em Tua presença\nContemplar Tua grandeza\n\nTe adoro, Senhor\nEm espírito e em verdade\nMe prostro aos Teus pés\nNa beleza da santidade\nTe dou meu louvor\nQue seja um cheiro suave\nE um som agradável a Ti\nPois digno és",
+    "id": 479
+  },
+  {
+    "nome": "Quero Te Adorar Oh Rei Jesus (Grandes Obras)",
+    "letra": "Quero Te adorar oh Rei Jesus\nCom todo o meu ser\nDeclarar o meu amor\nTua glória e majestade\nSanto és Senhor\n\nPois as tuas grandes obras\nTodos olhos podem ver\nSeu poder manifestado em toda terra\nSê exaltado, Oh Deus",
+    "id": 480
+  },
+  {
+    "nome": "Quero Viver Perto de Ti",
+    "letra": "Quero viver perto de Ti\nSei que és Real e vives em mim\nCom Tua Igreja, Teu Nome exaltar\nEm uma só voz:\n\nAleluia, Santo, Santo\nPoderoso, o Grande EU SOU\nQue é Digno, não há outro\nPoderoso, o Grande EU SOU\n(Ele é o Grande EU SOU)\nO Grande EU SOU\n\nQuero estar perto de Ti\nAo mundo contar sobre a graça\nVer ossos secos com vida outra vez\nEm uma só voz: (cantando)\n\nAleluia, Santo, Santo\nPoderoso, o Grande EU SOU\nQue é Digno, não há outro\nPoderoso, o Grande EU SOU\n(Ele é o Grande EU SOU)\nO Grande EU SOU\n\nTodos vão confessar, Todos se prostrarão\nDiante de Jesus que é o Rei dos reis\nNão há poder maior, ninguém resistirá\nAo Seu poder e a presença\n\nDo Grande EU SOU\nDo Grande EU SOU, do Grande EU SOU\nDo Grande EU SOU\nDo Grande EU SOU, do Grande EU SOU",
+    "id": 481
+  },
+  {
+    "nome": "Quero Voltar ao Inicio (Primeiro Amor)",
+    "letra": "Quero voltar ao inicio de tudo\nEncontrar-me contigo, Senhor\nQuero rever meus conceitos e valores\nEu quero reconstruir\nVou regressar ao caminho\nVou ver as primeiras obras, Senhor\nEu me arrependo, Senhor\nMe arrependo, Senhor\nMe arrependo, Senhor\n\nEu quero voltar ao primeiro amor\nAo primeiro amor\nEu quero voltar a Deus",
+    "id": 482
+  },
+  {
+    "nome": "Quão Amáveis São (Teus Altares)",
+    "letra": "Quão amáveis são os Teus tabernáculos\nSenhor dos exércitos\nA minh’alma suspira e desfalece\nPelos Teus átrios\n\nO pardal encontrou casa\nE a andorinha ninho para si\nEu encontrei Teus Altares Senhor\nRei meu e Deus meu\n\nBem-aventurados aqueles que habitam\nEm Tua Casa\nPois um dia em Teus átrios, Senhor dos exércitos\nVale mais do que mil\n\nPois o Senhor é o Sol e escudo\nDá graça e glória\nNenhum bem negará aqueles que andam\nCorretamente",
+    "id": 483
+  },
+  {
+    "nome": "Quão Formoso És",
+    "letra": "Quão Formoso és\nRei do Universo\nTua glória enche a terra\nE enche o céu\n\nTua glória enche a terra\nTua glória enche o céu\nTua glória enche minha vida\nSenhor\n\nMaravilhoso é estar em Tua presença\nMaravilhoso é poder Te adorar\nMaravilhoso é tocar em Tuas vestes\nMaravilhoso é Te contemplar, Senhor",
+    "id": 484
+  },
+  {
     "nome": "Quão Grande Abismo (Living Hope)",
-    "letra": "Quão grande abismo nos separava\nTão alta e funda a imensidão\nEm desespero ergui meus olhos\nClamei Teu nome na escuridão\nE em meio às sombras da minha alma\nResplandeceu Teu terno amor\nA Tua obra está consumada\nJesus Cristo é o meu Senhor\n\nMisericórdia como jamais vi\nTamanha graça, infinito amor\nO Deus Eterno desceu da Glória\nVestiu minha culpa, pecado e dor\nA cruz declara sou perdoado\nO Rei me chama: \"Filho, és meu !\"\nAmado Deus sou Teu pra sempre\nJesus Cristo é o meu Senhor\n\nAleluia glória a Quem me libertou\nAleluia sobre a morte triunfou\nAs cadeias destruiu e em seu nome nos remiu\nJesus Cristo é o meu Senhor\n\nNaquela manhã na tumba escura\nO Pai soprou a vida em Ti\nE do silêncio rompeu a Tua voz:\n\"A morte não tem poder em mim !\"\n\nA vitória é Tua enfim !"
+    "letra": "Quão grande abismo nos separava\nTão alta e funda a imensidão\nEm desespero ergui meus olhos\nClamei Teu nome na escuridão\nE em meio às sombras da minha alma\nResplandeceu Teu terno amor\nA Tua obra está consumada\nJesus Cristo é o meu Senhor\n\nMisericórdia como jamais vi\nTamanha graça, infinito amor\nO Deus Eterno desceu da Glória\nVestiu minha culpa, pecado e dor\nA cruz declara sou perdoado\nO Rei me chama: \"Filho, és meu !\"\nAmado Deus sou Teu pra sempre\nJesus Cristo é o meu Senhor\n\nAleluia glória a Quem me libertou\nAleluia sobre a morte triunfou\nAs cadeias destruiu e em seu nome nos remiu\nJesus Cristo é o meu Senhor\n\nNaquela manhã na tumba escura\nO Pai soprou a vida em Ti\nE do silêncio rompeu a Tua voz:\n\"A morte não tem poder em mim !\"\n\nA vitória é Tua enfim !",
+    "id": 485
+  },
+  {
+    "nome": "Quão Incapaz Eu Sou",
+    "letra": "Quão incapaz eu sou\nPara entrar em Sua presença\nQuão incapaz eu sou\nPara ministrar diante de Ti\n\nPor Teu sangue posso ver-Te\nPor Teu sangue posso receber-Te\nEu sei que nada sou\nTão somente nada sou, Senhor\n\nNada tenho em mim, Senhor\nPara Te oferecer\nNão há dádiva em mim,\nQue recompense o Teu amor por mim",
+    "id": 486
   }
 ]

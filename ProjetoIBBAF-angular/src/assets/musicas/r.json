@@ -1,17 +1,92 @@
 [
   {
-    "id": "434",
-    "nome": "Restaura em Mim (Longe de Ti)",
-    "letra": "Restaura em mim\nA Tua unção\nRestaura em mim a minha adoração\nRestaura-me\nLonge de Ti não sei viver\n\nLonge de Ti\nEu não sei viver\nPois somente pra Ti Jesus\nFoi que eu nasci\n\nFoi que eu nasci\nEu não sei viver distante,\nOu longe, longe de Ti"
+    "nome": "Recebi Um Novo Coração",
+    "letra": "Recebi um novo coração do Pai\nCoração regenerado,\nCoração transformado\nCoração que inspirado por Jesus\nComo fruto desse novo coração\nEu declaro a paz de Cristo\nTe abençôo meu irmão\nPreciosa é a nossa comunhão\n\nSomos corpo, assim bem ajustados\nTotalmente ligados, unidos vivendo em amor\nUma família sem qualquer falsidade\nVivendo a verdade\nExpressando a glória do Senhor\n\nUma família, vivendo um compromisso\nDo grande amor de Cristo\nEu preciso de Ti, querido irmão\nPrecioso és para mim, querido irmão",
+    "id": 487
   },
   {
-    "id": "435",
-    "nome": "Restaura Senhor",
-    "letra": "Restaura Senhor\nA minha comunhão com a Tua presença\nA liberdade de sentar Contigo a mesa\nE contemplar Tua beleza\n\nRestaura Senhor\nA intimidade do primeiro amor\nA transformar tudo que tenho e sou\nE assim viver para Teu louvor\n\nRestaura Senhor\nA minha sede de Te adorar\nPra que a minha vida\nEu possa derramar em Teu altar, Senhor\n\nRestaura Senhor\nA unção do Teu Espírito em meu ser\nA Palavra que alimenta meu viver\nE pra sempre Te obedecer"
+    "nome": "Regozijar-me-ei Muito No Senhor",
+    "letra": "Regozijar-me-ei\nMuito no Senhor\nA minh’alma se alegra\nNo meu Deus\nPorque me cobriu\nCom vestes de salvação\nE me envolveu\nCom mantos de justiça\n\nComo o noivo que se adorna\nPara o encontro\nComo a noiva que se enfeita\nCom a suas jóias",
+    "id": 488
   },
   {
-    "id": "593",
+    "nome": "Rei Do Universo (Dono do Meu Coração)",
+    "letra": "Rei do universo\nTe dou meu louvor\nCom tantas bênçãos\nMe cercas Senhor\nSó Tu és a fonte\nDe alegria e prazer\nMelhor que a própria vida\nÉ Te conhecer\n\nTu és o dono do meu coração\nTu és o dono do meu coração\nE não há outro\nE não há outro\nSó Tu és o dono do meu coração\nSó Tu és o dono do meu coração\n\nPaz e família, abrigo e luz\nMinhas necessidades\nSupres todas em Jesus\nMas nem ouro e prata\nPodem satisfazer\nA sede da minh’alma\nQue é a Ti pertencer\n\nTu és o dono do meu coração\nTu és o dono do meu coração\nE não há outro\nE não há outro\nSó Tu és o dono do meu coração\nSó Tu és o dono do meu coração\n\nPlanos e sonhos\nTu tens para mim\nE eu maravilhado\nDigo: “eis-me aqui”\nQuero agradar-Te\nE cumprir Teu querer\nCaminhando em graça\nVou obedecer\n\nTu és o dono do meu coração\nTu és o dono do meu coração\nE não há outro\nE não há outro\nSó Tu és o dono do meu coração\nSó Tu és o dono do meu coração\n\nEm minha jornada\nIntimamente Te amar\nPara que na glória\nQuando o dia chegar\nAo contemplar Teu rosto\nEu venha reconhecer\nO olhar tão doce\nQue amou o meu ser\n\nTu és o dono do meu coração\nTu és o dono do meu coração\nE não há outro\nE não há outro\nSó Tu és o dono do meu coração\nSó Tu és o dono do meu coração",
+    "id": 489
+  },
+  {
+    "nome": "Rei Dos reis",
+    "letra": "Rei dos reis, Senhor dos senhores\nGlória! Aleluia!\n\nCristo Rei da glória\nGlória! Aleluia!\n\nSanto, Santo é o Senhor\nGlória! Aleluia!\nE mui digno de Louvor\nGlória! Aleluia!\n\nCristo Rei da glória\nGlória! Aleluia!",
+    "id": 490
+  },
+  {
+    "nome": "Rei Dos Reis Aqui Estou (Para Sempre Te Adorarei)",
+    "letra": "Rei dos reis aqui estou\nRendo a Ti o meu\nLouvor e adoração\nPois tu és Rei\nAcima dos céus\nAcima de nós\n\nO universo se formou\nCom a tua voz\nO mundo inteiro\nVeio a existir\nVerbo de Deus\nPrincipio e fim\n\nE eu te louvarei Senhor\nLevantando a Ti\nMinhas mãos\nCom canções de amor\nTe exaltarei\nMinistrando com\nMeu coração\nPara sempre Te adorarei\nPara sempre Te adorarei\n\nNada pode calar\nNada pode deter\nMinha consagração",
+    "id": 491
+  },
+  {
+    "nome": "Rei, Sobre o Trono Estás (Invocamos)",
+    "letra": "Rei, sobre o Trono estás\nSempre reinarás, és Santo\nDeus, que jamais falhou\nNunca falharás, nos ouve\n\nInvocamos Tua presença aqui\nTua glória nós vamos sentir\nMostra o Teu poder, mostra o Teu poder\nCom Teu toque vem nos restaurar\nTeu Espírito vem nos avivar\nMostra o Teu poder, mostra o Teu poder\n\nDeus, perto Tu estás\nNossa oração respondes\nVem, com Teu fogo em nós\nSomos povo Teu, nos ouve\n\nTua presença aqui, já podemos sentir\nAleluia, aleluia!",
+    "id": 492
+  },
+  {
+    "nome": "Reina o Senhor",
+    "letra": "Reina o Senhor\nTremam os Povos (2x)\nEle está entronizado\nAcima dos querubins\n\nO Senhor é grande\nEm Sião! (3x)\nE sobremodo elevado\nAcima de todos os povos\n\nExaltai ao nosso Deus! (3x)\nE prostrai-vos aos Teus pés\nPois só Ele é Santo",
+    "id": 493
+  },
+  {
+    "nome": "Reina o Senhor! Toda a terra verá (Renda-se)",
+    "letra": "Reina o Senhor! Toda a terra verá\nEle voltará com glória, força e poder\nPovos e nações, todos afluirão\nAo ouvirem o som dos anjos anunciando\nE então diante do Rei dos reis tremerão\n\nGlória e majestade ao Rei, Cristo Jesus\nCordeiro Santo, Raiz de Davi\nQue amou o mundo e abriu as portas do céu\nA todo aquele que Ele redimir\n\nReina aqui! Breve Ele vai retornar\nReina aqui! Toda a terra transformará\nReina aqui! Venha a Ele sem reservas\n\nReina aqui! O Senhor disse e cumprirá\nReina aqui! Toda lágrima enxugará\nReina aqui! Deus é aquele que era, que é\nE que há de vir!",
+    "id": 494
+  },
+  {
     "nome": "Render a Ti (Leva-me além)",
-    "letra": "Render a Ti adoração\nE derramar meu ser\nÉ o que meu coração\nDeseja sempre viver\n\nContigo andar e me inspirar\nPra Te dizer:\n\"Quero ser transformado cada vez mais por Ti\"\nSenhor Tu és incomparável\nTeu nome é Maravilhoso !\n\nLeva-me além, leva-me além\nA um nível mais profundo\nDe intimidade contigo, oh Senhor\n\nLeva-me além, leva-me além\nQue a minha vida brilhe mais com a Tua unção\nMais com o Teu poder"
+    "letra": "Render a Ti adoração\nE derramar meu ser\nÉ o que meu coração\nDeseja sempre viver\n\nContigo andar e me inspirar\nPra Te dizer:\n\"Quero ser transformado cada vez mais por Ti\"\nSenhor Tu és incomparável\nTeu nome é Maravilhoso !\n\nLeva-me além, leva-me além\nA um nível mais profundo\nDe intimidade contigo, oh Senhor\n\nLeva-me além, leva-me além\nQue a minha vida brilhe mais com a Tua unção\nMais com o Teu poder",
+    "id": 495
+  },
+  {
+    "nome": "Rendo-me Aos Teus Pés",
+    "letra": "Rendo-me aos Teus pés\nVenho rasgar meu coração\nAbrir tudo o que sou\nE o que tenho em mim\nPois sei que És Poderoso\nE fiel para curar\nE sarar minhas feridas\nE mudar o meu viver\n\nHabita em mim, Senhor\nSomente o Teu querer\nRenova em minha vida\nTua Palavra e o Teu viver\nNão tenho nada em mim\nPra Te oferecer\nTu és minha porção\nE a minha herança, oh Senhor",
+    "id": 496
+  },
+  {
+    "nome": "Renova-me",
+    "letra": "Renova-me, Senhor Jesus\nJá não quero ser igual\nRenova-me, Senhor Jesus\nPõe em mim, Teu coração\n\nPorque tudo o que há\nDentro de mim\nNecessita ser mudado Senhor\nPorque tudo o que há\nDentro do meu coração\nNecessita mais de Ti",
+    "id": 497
+  },
+  {
+    "nome": "Ressuscitou",
+    "letra": "Ressuscitou, Ressuscitou\nRessuscitou, Aleluia!\n\nOh morte\nOnde está oh morte\nA sua vitória?\nJesus ressuscitou!\n\nVenceu a morte\nVenceu o mal\nVenceu as trevas\nJesus ressuscitou!",
+    "id": 498
+  },
+  {
+    "nome": "Restaura em Mim (Longe de Ti)",
+    "letra": "Restaura em mim\nA Tua unção\nRestaura em mim a minha adoração\nRestaura-me\nLonge de Ti não sei viver\n\nLonge de Ti\nEu não sei viver\nPois somente pra Ti Jesus\nFoi que eu nasci\n\nFoi que eu nasci\nEu não sei viver distante,\nOu longe, longe de Ti",
+    "id": 499
+  },
+  {
+    "nome": "Restaura Senhor",
+    "letra": "Restaura Senhor\nA minha comunhão com a Tua presença\nA liberdade de sentar Contigo a mesa\nE contemplar Tua beleza\n\nRestaura Senhor\nA intimidade do primeiro amor\nA transformar tudo que tenho e sou\nE assim viver para Teu louvor\n\nRestaura Senhor\nA minha sede de Te adorar\nPra que a minha vida\nEu possa derramar em Teu altar, Senhor\n\nRestaura Senhor\nA unção do Teu Espírito em meu ser\nA Palavra que alimenta meu viver\nE pra sempre Te obedecer",
+    "id": 500
+  },
+  {
+    "nome": "Reunimo-nos Aqui",
+    "letra": "Reunimo-nos aqui\nPara glorificar o Rei Jesus (3x)\nAdorar o Rei Jesus, Senhor\n\nDe si mesmo esquecer\nPara glorificar o rei Jesus (3x)\nAdorar o Rei Jesus, Senhor\n\nLevantemos nossas mãos\nPara glorificar o rei Jesus (3x)\nAdorar o Rei Jesus, Senhor",
+    "id": 501
+  },
+  {
+    "nome": "Rocha Eterna",
+    "letra": "Rocha Eterna em Ti, firmo os meus pés\nNão me abalarei seguro estou\nNão vou temer se o dia mau chegar\nOh meu Senhor eu me escondo em Ti\n\nEm Ti confio, Tu és meu Protetor\nCanto aleluia\nA Ti, meu Salvador\nO meu Refúgio e o meu Socorro És\nCanto aleluia\nA Ti, meu Salvador\n\nAleluia, aleluia, aleluia, aleluia\nAleluia, aleluia, aleluia, aleluia",
+    "id": 502
+  },
+  {
+    "nome": "Roni Roni Bat Zion",
+    "letra": "Roni roni bat zion\nHariu Yisrael\nSimch v’altsi b’ochol lev\nBat Yerushalayim\n\nRegozija, Filha de Sião\nRejubila, Israel\nCanta e dança\nDe todo coração\nFilha de Jerusalém\n\nO Senhor levou tuas dívidas\nDestrói teus inimigos\nRei de Israel, Senhor de tudo\nEm nosso meio, És Poderoso\n\nHesir hashem mishpotaich\nPina oyvech\nMelech Yisrael, Adonai\nBekirbech, al tirai\n\nO Senhor Teu Deus Poderoso é\nPara Te salvar\nSe deleitará sobre Ti\nRenovar-te-á no seu amor",
+    "id": 503
+  },
+  {
+    "nome": "Rude Cruz (A Mensagem da Cruz)",
+    "letra": "Rude cruz se erigiu\nDela o dia fugiu\nComo emblema\nDe vergonha e dor\nMas contemplo essa cruz\nPorque nela Jesus\nDeu a vida por mim pecador\n\nSim, eu amo a mensagem da cruz\nTé morrer eu a vou proclamar\nLevarei eu também minha cruz\nTé por uma coroa trocar\n\nDesde a glória dos céus\nO cordeiro de Deus\nAo calvário humilhante baixou\nEssa cruz tem pra mim\nAtrativos sem fim\nPorque nela Jesus me salvou\n\nSim, eu amo a mensagem da cruz\nTé morrer eu a vou proclamar\nLevarei eu também minha cruz\nTé por uma coroa trocar\n\nNessa cruz padeceu\nE por mim já morreu\nMeu Jesus para\nDar-me o perdão\nE me alegro na cruz\nDela vem graça e luz\nPara a minha santificação\n\nSim, eu amo a mensagem da cruz\nTé morrer eu a vou proclamar\nLevarei eu também minha cruz\nTé por uma coroa trocar\n\nEu aqui com  Jesus\nA vergonha da cruz\nQuero sempre levar e sofrer\nCristo vem me buscar\nE com ele no lar\nUma parte de glória hei de ter\n\nSim, eu amo a mensagem da cruz\nTé morrer eu a vou proclamar\nLevarei eu também minha cruz\nTé por uma coroa trocar",
+    "id": 504
   }
 ]
