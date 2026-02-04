@@ -4,17 +4,36 @@ const fs = require('fs');
 const cors = require('cors');
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.json());
 app.use(cors());
 
-// A sua API deve vir ANTES das rotas estáticas.
-const musicasDir = path.join(__dirname, '..', 'ProjetoIBBAF-angular', 'src', 'assets', 'musicas');
+// A sua API deve vir ANTES das rotas estaticas.
+const isPkg = !!process.pkg;
+const appBase = process.env.APP_BASE || (isPkg ? path.dirname(process.execPath) : path.join(__dirname, '..'));
+const defaultMusicasDir = path.join(appBase, 'data', 'musicas');
+const defaultFrontendDir = path.join(appBase, 'frontend');
+const devMusicasDir = path.join(__dirname, '..', 'ProjetoIBBAF-angular', 'src', 'assets', 'musicas');
+const devFrontendDistDir = path.join(__dirname, '..', 'ProjetoIBBAF-angular', 'dist', 'browser');
+const devFrontendSrcDir = path.join(__dirname, '..', 'ProjetoIBBAF-angular', 'src');
+
+const musicasDir = process.env.MUSICAS_DIR || (isPkg ? defaultMusicasDir : (fs.existsSync(defaultMusicasDir) ? defaultMusicasDir : devMusicasDir));
+const frontendPath =
+    process.env.FRONTEND_DIR ||
+    (isPkg
+        ? defaultFrontendDir
+        : (fs.existsSync(defaultFrontendDir)
+            ? defaultFrontendDir
+            : (fs.existsSync(devFrontendDistDir) ? devFrontendDistDir : devFrontendSrcDir)));
+
 
 // Função helper para ler todas as músicas
 function lerTodasMusicas() {
     const musicas = [];
+    if (!fs.existsSync(musicasDir)) {
+        return musicas;
+    }
     const files = fs.readdirSync(musicasDir);
     files.forEach(file => {
         if (file.endsWith('.json')) {
@@ -35,6 +54,7 @@ function lerTodasMusicas() {
 
 // Função helper para salvar música em arquivo por letra
 function salvarMusicaPorLetra(musica) {
+    fs.mkdirSync(musicasDir, { recursive: true });
     const letra = musica.nome.charAt(0).toLowerCase();
     const filePath = path.join(musicasDir, `${letra}.json`);
     let musicasDoArquivo = [];
@@ -48,6 +68,9 @@ function salvarMusicaPorLetra(musica) {
 
 // Função helper para encontrar e atualizar música
 function atualizarMusica(id, dadosAtualizados) {
+    if (!fs.existsSync(musicasDir)) {
+        return null;
+    }
     const files = fs.readdirSync(musicasDir);
     for (const file of files) {
         if (file.endsWith('.json')) {
@@ -85,6 +108,9 @@ function atualizarMusica(id, dadosAtualizados) {
 
 // Função helper para deletar música
 function deletarMusica(id) {
+    if (!fs.existsSync(musicasDir)) {
+        return false;
+    }
     const files = fs.readdirSync(musicasDir);
     for (const file of files) {
         if (file.endsWith('.json')) {
@@ -196,16 +222,21 @@ app.delete('/api/musicas/:id', (req, res) => {
     }
 });
 
-// Serve os arquivos da pasta 'src'
-const angularSrcPath = path.join(__dirname, '..', 'ProjetoIBBAF-angular', 'src');
-app.use(express.static(angularSrcPath));
+// Serve os arquivos do frontend (dist no deploy, src no dev)
+app.use(express.static(frontendPath));
 
 // Middleware que garante que o Angular lide com as rotas.
-// Esta é a nova rota genérica que evita o erro.
+// Esta e a nova rota generica que evita o erro.
+const indexHtml = path.join(frontendPath, 'index.html');
+const indexCsr = path.join(frontendPath, 'index.csr.html');
+const indexToUse = fs.existsSync(indexHtml) ? indexHtml : (fs.existsSync(indexCsr) ? indexCsr : indexHtml);
 app.use((req, res) => {
-    res.sendFile(path.join(angularSrcPath, 'index.html'));
+    res.sendFile(indexToUse);
 });
 
-app.listen(PORT, () => {
+const server = app.listen(PORT, () => {
     console.log(`Servidor rodando em http://localhost:${PORT}`);
+});
+server.on('error', (err) => {
+    console.error('Erro ao iniciar servidor:', err);
 });

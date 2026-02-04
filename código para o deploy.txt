@@ -1,0 +1,3 @@
+C:\Users\bezer\Programacao\VSCodeProjects\Projeto-IBBAF>
+
+powershell -ExecutionPolicy Bypass -File .\build-deploy.ps1

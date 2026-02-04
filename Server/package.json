@@ -2,8 +2,11 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
+  "bin": "server.js",
   "scripts": {
+    "start": "node server.js",
+    "build:exe": "pkg . --targets node18-win-x64 --output ../LetrasIBBAF/IBBAF-Server.exe",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -12,5 +15,8 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "pkg": "^5.8.1"
   }
 }
