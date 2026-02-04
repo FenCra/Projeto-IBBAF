@@ -2,18 +2,16 @@
     font-family: 'Poppins', sans-serif;
     font-weight: 300;    
     font-style: italic;
-
-    display: flex;               /* ativa Flexbox */
-    justify-content: center;     /* centraliza todos os ícones juntos */
-    align-items: center;         /* centraliza verticalmente */
-    gap: 10vw;                    /* controla a distância entre os ícones */
-    height: 60vh;                /* altura da área onde os ícones vão ficar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10vw;
+    height: 60vh;
 }
-
 
 .icon-view, .icon-edit, .icon-show {
     display: flex;
-    flex-direction: column;      /* ícone em cima, texto abaixo */
+    flex-direction: column;
     align-items: center;
 }
 

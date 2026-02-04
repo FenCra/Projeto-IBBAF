@@ -38,7 +38,6 @@ body {
 .lista-musicas {
     width: 100%;
     height: 100%;
-    /* ocupa toda a área disponível da div resultados */
     overflow-y: auto;
     scroll-behavior: smooth;
 }

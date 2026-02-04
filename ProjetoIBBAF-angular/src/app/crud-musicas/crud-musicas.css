@@ -1,9 +1,9 @@
 .search-add-section {
     display: flex;
+    justify-content: space-between;
     align-items: center;
     margin: 20px 0 30px 20px;
     padding: 15px;
-    gap: 15px;
 }
 
 .search-container input {
@@ -13,7 +13,7 @@
     background-color: #685DDF;
     border-radius: 50px;
     height: 40px;
-    width: 90ch;
+    width: 50em;
     font-size: 14px;
 }
 

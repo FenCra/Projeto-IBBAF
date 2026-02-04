@@ -16,25 +16,6 @@ pre {
   gap: 25px;
   justify-content: end;
 }
-/*
-.buttons button {
-  width: 60px;
-  font-size: 24px;
-  border: none;
-  cursor: pointer;
-  background-color: transparent;
-} */
-
-.favorite {
-  width: 39px;
-  height: 37px;
-  background-image: url('../../assets/nao-fav.png');
-  background-color: transparent;
-  background-size: cover;
-  background-repeat: no-repeat;
-  border: none;
-  cursor: pointer;
-}
 
 .back {
   width: 54px;

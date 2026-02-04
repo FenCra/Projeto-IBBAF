@@ -29,7 +29,7 @@ export class CrudMusicas implements OnInit {
       next: (data) => {
         this.musicas = data as any[];
 
-        this.musicasFiltradas = [...this.musicas]; 
+        this.musicasFiltradas = [...this.musicas];
       },
       error: (err) => {
         console.error('Erro ao carregar as músicas', err);
@@ -37,19 +37,43 @@ export class CrudMusicas implements OnInit {
     });
   }
 
-  filtrarMusicas() {
-
-    if (!this.searchTerm.trim()) {
-      this.musicasFiltradas = [...this.musicas]; 
-    } else {
-      const termo = this.searchTerm.trim().toLowerCase();
-
-      this.musicasFiltradas = this.musicas.filter(musica =>
-        (musica.nome && musica.nome.toLowerCase().includes(termo)) 
-
-      );
-    }
+  normalizarTexto(texto: string): string {
+    return texto
+      ?.normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .replace(/[^\w\s]/gi, '')
+      .toLowerCase();
   }
+
+
+  filtrarMusicas() {
+    const termo = this.searchTerm.trim();
+
+    if (!termo) {
+      this.musicasFiltradas = [...this.musicas];
+      return;
+    }
+
+    const termoNormalizado = this.normalizarTexto(termo);
+
+    const musicasQueComecam = this.musicas.filter(musica =>
+      this.normalizarTexto(musica.nome).startsWith(termoNormalizado)
+    );
+
+    const musicasQueContem = this.musicas.filter(musica =>
+      !this.normalizarTexto(musica.nome).startsWith(termoNormalizado) &&
+      (
+        this.normalizarTexto(musica.nome).includes(termoNormalizado) ||
+        this.normalizarTexto(musica.letra).includes(termoNormalizado)
+      )
+    );
+
+    this.musicasFiltradas = [
+      ...musicasQueComecam,
+      ...musicasQueContem
+    ];
+  }
+
 
   editarMusica(musica: any): void {
     this.musicaEmEdicao = { ...musica };
@@ -60,7 +84,7 @@ export class CrudMusicas implements OnInit {
       this.musicasService.deleteMusica(id).subscribe({
         next: () => {
 
-          this.carregarMusicas(); 
+          this.carregarMusicas();
         },
         error: (err) => {
           console.error('Erro ao deletar a música', err);
